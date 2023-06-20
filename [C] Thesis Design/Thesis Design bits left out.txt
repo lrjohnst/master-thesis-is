@@ -1,0 +1,75 @@
+Ultimately this research will deliver a set of user interface design standards for car navigation systems, to reduce distraction while driving. This result will be attained by an experimental comparison of distraction by one existing car navigation interface, versus an improved version of the same interface. Before this experiment takes place, a set of independent variables are identified by triangulation between observations from previous research, user surveys, and making observations in the field.
+
+Navigation is necessary and makes driving safer in some cases. But companies make the traffic unnecessarily unsafe by requesting information, distracting the driver with stupid questions like “are there still speed cameras here?”
+
+We are not multitaskers. We must reduce the overload to the absolute minimum. What is the minimum? (There’s some literature about this…). There may be still open issues, this is what I work with. 
+I would like to follow the multi/mono information approach. So we can listen to what happens, but mainly we watch. Under the layer of how can we minimize the cognitive load.
+
+Responsibility is acknowledged for both the driver, as well as the creators of the technology, to avoid distraction while using navigation systems. The driver is expected to continuously consider the safety of traffic and should act appropriately if technology seems to work in detriment of this safety. At the same time, technology designers must reflect on what effects the technology may have on safety and act to improve it.
+
+What are the specific indicators of road safety relevant to the use of navigation systems, as identified through a comprehensive requirements elicitation process involving surveys, expert interviews, and field observations?
+How can these indicators be ranked in terms of their importance for evaluating the safety impacts of nomadic (smartphone) versus integrated car navigation systems?
+Based on the identified and ranked indicators, is there a significant difference in road safety between using a smartphone navigation system and an integrated navigation system in a car, as tested in a naturalistic experiment?
+How does the exclusion of certain indicators and variations in their relative weight impact the results of the naturalistic experiment?
+
+What are the specific distractions introduced by smartphone navigation systems that impact road safety?
+How do integrated car navigation systems differ from smartphone navigation systems in terms of their impact on road safety?
+What road safety indicators are relevant to the use of navigation systems, and how do they vary between smartphone and integrated car navigation systems?
+Is there a significant difference in the prioritized road safety indicator(s) between the use of smartphone navigation systems and integrated car navigation systems?
+How can the results of this study inform the design of future car navigation systems and regulations to improve road safety?
+
+This research will aim to identify and describe the aspects of the user interface of navigation applications that cause the most distraction to drivers and are therefore presumably the biggest sources of risk in traffic. A set of guidelines will then be proposed and tested in an experimental setting.
+
+Kandemir and colleagues developed a model that features a baseline level of distraction and measures acceptable and unacceptable levels of distraction through simulation experiments. The model sets a base workload and then examines a variety of scenarios, including texting, calling, and using driving support systems, to assess their effect on levels of distraction. The researchers propose the existence of “toxic” task combinations in which certain tasks, while not overly burdensome on their own, may surpass a certain threshold when performed in conjunction with more complex tasks, such as dialing while simultaneously braking at a red light [Kandemir].
+
+Oviedo-Trespalacios: Also found that push-buttons have less glances off the road compared to touch screen, therefore less impact on driving performance (Reimer et al 2014).
+
+Grahn and Kujala did a similar thing in 2020: Impacts of touch screen size, etc. Carrio. [research group] at [research institute] tested how a specialized car infotainment system ‘Carrio’ may be beneficial compared to regular Android apps. The researchers used a model based on occlusian distance (vehicle speed times time of occlusion) to measure distraction in a an experimental lab setting. The specialized application was found to distract least while reading email, picking music or [example]. Screen size and orientation were identified as not significant influencers of distraction [double check this!]. This research [confirms or suggests] that [interface elements] have [such and such] effects on driver distraction. In this sense, [authors A and B] seem to confirm each other, but in [another sense] they have contradictory observations.
+
+
+
+In this naturalistic experiment, 60 participants will be randomly assigned to either the smartphone navigation system group or the integrated navigation system group. Each participant will drive a predetermined route while following navigation instructions. The road safety indicators will be measured through various methods, including eye-tracking, heart rate monitoring, and analysis of driving behavior.
+
+The collected data will be analyzed using statistical techniques, including descriptive statistics, t-tests, and regression analysis, to compare the road safety indicators between the two groups. The statistical significance level will be set at p < 0.05.
+
+Expected Outcomes
+It is hypothesized that the integrated navigation system group will have better road safety indicators compared to the smartphone navigation system group. If the results confirm the hypothesis, it will provide evidence for the effectiveness of integrated navigation systems in improving road safety.
+
+Furthermore, the results will inform the design of future car navigation systems and related regulations, with the aim of reducing distractions and improving road safety. The exclusion and ranking of indicators will also provide insights into the most critical factors to consider in such systems.
+
+Conclusion
+The results of this study are expected to have significant implications for improving road safety, particularly in the context of car navigation systems. The study will provide empirical evidence to support the use of integrated navigation systems over smartphone navigation systems and inform the design of future car navigation systems and regulations. The exclusion and ranking of indicators will also contribute to identifying the most critical factors to consider in car navigation systems to optimize road safety.
+
+Mention something about (cognitive) load related to touch screen, SW buttons and voice control.
+Mention something about differences between center console, center stack and other screens (screen position). [The article with ‘visual sampling method’ contains something interesting about screen position, something about screen position and glance duration].
+
+
+Indicators: Objective measures (driving performance, crash rates), Subjective measures (driver perceptions, self-reported safety)
+
+
+To get going we need: 
+•	a data collection method, 
+•	respondents for the observation sessions, 
+•	respondents for the experiments, 
+•	respondents for the expert interviews,
+•	an experimental design, 
+•	a survey,
+•	a plan to process collected survey data
+•	indicators distilled from survey data and interview transcripts,
+•	to do the experiments and collect data
+•	to do the interviews
+•	to do the setting up of the surveys
+•	to do the sending out of the surveys
+•	to do the collecting of survey respondents
+•	to do the coming up with a participant recruitment strategy
+•	To transcript the interviews
+•	To code the transcripted interviews
+•	To code the open questions from the surveys
+•	To obtain indicators from the surveys and interviews
+•	
+•	to write the analysis of the importance of the indicators that were found
+•	
+
+Risk assessment
+Also do a risk assessment: what if I cannot find the n-number of participants that I need?
+What if I do the experiments, but I make a mistake and I have to throw away all my collected data?

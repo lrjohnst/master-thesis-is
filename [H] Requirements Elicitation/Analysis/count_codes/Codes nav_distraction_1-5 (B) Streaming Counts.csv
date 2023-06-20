@@ -1,0 +1,30 @@
+codes1,counts1
+Bad instructions or difficulty interpreting,1
+Conflict between other system and navigation,1
+Message notifications interfere with navigation,2
+Navigation and traffic related notifications,2
+Navigation interferes with driving tasks,2
+Navigation system failure,2
+Route changes or suggestions,2
+codes2,counts2
+Conflict between other system and navigation,3
+Route changes or suggestions,2
+Searching what lane to take,2
+Traffic camera notifications,2
+codes3,counts3
+Conflict between other system and navigation,2
+Traffic camera notifications,2
+Searching what lane to take,1
+Navigation and traffic related notifications,1
+codes4,counts4
+Traffic camera notifications,1
+codes5,counts5
+Bad instructions or difficulty interpreting,1
+Conflict between other system and navigation,6
+Message notifications interfere with navigation,2
+Navigation and traffic related notifications,3
+Navigation interferes with driving tasks,2
+Navigation system failure,2
+Route changes or suggestions,4
+Searching what lane to take,3
+Traffic camera notifications,5

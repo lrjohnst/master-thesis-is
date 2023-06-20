@@ -1,0 +1,7 @@
+Attention capture or cognitive capture. (p39 van NHTSA en p11 van Kujala/Salvucci).
+
+Under p2.2
+Some general stuff about interface design: (1) general interface design, (2) interface design for cars, (3) interface design for navigation systems. Features, cognitive stuff, structure, lay-out, input modalities, interaction.
+
+Under p2.2 (final paragraph)
+And with regards to the paragraphs above, how did they measure this? And how did they come to these analyses? And this should probably connect nicely to section “Driving performance indicators”. Or… “Driving performance indicators” should have an introduction paragraph that connects to this part.

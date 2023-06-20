@@ -1,0 +1,226 @@
+Distraction: An unhelpful distraction to the driving task or to navigation tasks.
+
+
+
+Interaction, Behavior, Distraction, Driving performance indicator, Situation awareness, Something that triggers distraction
+
+Interaction
+Distraction
+Behavior
+Driving performance
+
+
+Reflect on the differences and similarities between streaming navigation to board computer and integrated navigation system.
+
+
+Survey cleaning and descriptive stats
+- The survey was designed and administered via a web-based application called SurveyLegend.
+- Finally the data was exported to a MS Excel table.
+- The survey was then made inaccessible, and no new observations were gathered.
+- Of 80 responses in total, 13 were disqualified due to not owning drivers license, or not using any navigation system or incompleteness.
+- The mean frequency of weekly car use among participants was 4,18 days.
+- The mean time of completion for the survey was 1086 seconds.
+- The first survey response was on April 29. The last response was on June 8.
+- The general distractions were coded and the resulting codes were counted using a PHP-script specially developed for this purpose. To retrieve an analysis on which distractions are most top-of-mind, a salience index was calculated with the formula: ranking = (weight_column1 * count_column1) + (weight_column2 * count_column2) + (weight_column3 * count_column3) + (weight_column4 * count_column4) + (weight_column5 * count_column5).
+- Coding procedure nav_distractions_1-5: The full set of open answers (fields 1 through 5) are coded by one person. Firstly a round of open coding is applied. In the second round, the first codes are refined.
+- T-test requirements for Closed Nav Distractions: Independent samples: Y, Normally distributed: N, Equal variance: Y.
+- With the open question of 'nav distractions' my expectation was that the responses could be classified into 'visual distraction', 'cognitive distraction', and so-on. But due to the posing of the question, the answers were unexpected. The answers were mostly complaints about the navigation system that caused distraction, for instance: traffic notifications, bad instructions.
+- With the open question of 'nav behavior' the expectation was that the responses could be classified into 'SDLP', 'speed control', and so-on. The answers were for a large part as expected, but also with exceptions.
+- The instances where the code on nav_behavior turned out to be 'distraction' are unfortunately not useful. The code 'distraction' by itself is not a valid way to distinguish groups, because the code does not constitute a valid answer to the question. If the sample size were larger, the codes 'distraction' could be split up into 'visual', 'cognitive', et cetera, and serve as substitute answers for 'nav_distractions'. But the sample size would then not be large enough to do meaningful statistical tests.
+- Code "Decision making": specific complaint about impaired decision making. This does not include things like "I find it harder to make decisions". It includes things like "I make a wrong turn". If it's more a complaint like "hard to anticipate", the code "cognitive distraction" is used.
+- 
+
+
+
+
+Coding manual
+
+Coding nav_distractions_1-5:
+- The person is not considered an actor with any initiative. This is to say: a person does not bear responsibility in receiving or interpreting the navigation system correctly. Only the navigation system itself bears responsibility for the effectiveness of the navigation tasks. Therefore, a code could never be for instance: "user fails to interpret navigation correctly". In this case the code should be more something like: "navigation system fails to communicate".
+
+
+
+
+
+
+
+
+
+
+Formulas to assign categories to codes:
+=IF(
+    OR(
+        OR(S2="Conflict between other system and navigation"; S2="Navigation interferes with driving tasks"; S2="Message notifications interfere with navigation");
+        OR(V2="Conflict between other system and navigation"; V2="Navigation interferes with driving tasks"; V2="Message notifications interfere with navigation");
+        OR(Y2="Conflict between other system and navigation"; Y2="Navigation interferes with driving tasks"; Y2="Message notifications interfere with navigation");
+        OR(AB2="Conflict between other system and navigation"; AB2="Navigation interferes with driving tasks"; AB2="Message notifications interfere with navigation");
+        OR(AE2="Conflict between other system and navigation"; AE2="Navigation interferes with driving tasks"; AE2="Message notifications interfere with navigation")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Bad instructions or difficulty interpreting"; S2="Searching what lane to take"; S2="Communication failure");
+        OF(V2="Bad instructions or difficulty interpreting"; V2="Searching what lane to take"; V2="Communication failure");
+        OF(Y2="Bad instructions or difficulty interpreting"; Y2="Searching what lane to take"; Y2="Communication failure");
+        OF(AB2="Bad instructions or difficulty interpreting"; AB2="Searching what lane to take"; AB2="Communication failure");
+        OF(AE2="Bad instructions or difficulty interpreting"; AE2="Searching what lane to take"; AE2="Communication failure")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Navigation and traffic related notifications"; S2="Route changes or suggestions"; S2="Navigation system failure"; S2="Traffic camera notifications");
+        OF(V2="Navigation and traffic related notifications"; V2="Route changes or suggestions"; V2="Navigation system failure"; S2="Traffic camera notifications");
+        OF(Y2="Navigation and traffic related notifications"; Y2="Route changes or suggestions"; Y2="Navigation system failure"; S2="Traffic camera notifications");
+        OF(AB2="Navigation and traffic related notifications"; AB2="Route changes or suggestions"; AB2="Navigation system failure"; S2="Traffic camera notifications");
+        OF(AE2="Navigation and traffic related notifications"; AE2="Route changes or suggestions"; AE2="Navigation system failure"; S2="Traffic camera notifications")
+    );
+    1;
+    0
+)
+=IF(
+    OR(
+        OR(S2="Conflict between other system and navigation"; S2="Navigation interferes with driving tasks"; S2="Message notifications interfere with navigation");
+        OR(V2="Conflict between other system and navigation"; V2="Navigation interferes with driving tasks"; V2="Message notifications interfere with navigation");
+        OR(Y2="Conflict between other system and navigation"; Y2="Navigation interferes with driving tasks"; Y2="Message notifications interfere with navigation");
+        OR(AB2="Conflict between other system and navigation"; AB2="Navigation interferes with driving tasks"; AB2="Message notifications interfere with navigation");
+        OR(AE2="Conflict between other system and navigation"; AE2="Navigation interferes with driving tasks"; AE2="Message notifications interfere with navigation")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Bad instructions or difficulty interpreting"; S2="Searching what lane to take"; S2="Communication failure");
+        OF(V2="Bad instructions or difficulty interpreting"; V2="Searching what lane to take"; V2="Communication failure");
+        OF(Y2="Bad instructions or difficulty interpreting"; Y2="Searching what lane to take"; Y2="Communication failure");
+        OF(AB2="Bad instructions or difficulty interpreting"; AB2="Searching what lane to take"; AB2="Communication failure");
+        OF(AE2="Bad instructions or difficulty interpreting"; AE2="Searching what lane to take"; AE2="Communication failure")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Navigation and traffic related notifications"; S2="Route changes or suggestions"; S2="Navigation system failure"; S2="Traffic camera notifications");
+        OF(V2="Navigation and traffic related notifications"; V2="Route changes or suggestions"; V2="Navigation system failure"; S2="Traffic camera notifications");
+        OF(Y2="Navigation and traffic related notifications"; Y2="Route changes or suggestions"; Y2="Navigation system failure"; S2="Traffic camera notifications");
+        OF(AB2="Navigation and traffic related notifications"; AB2="Route changes or suggestions"; AB2="Navigation system failure"; S2="Traffic camera notifications");
+        OF(AE2="Navigation and traffic related notifications"; AE2="Route changes or suggestions"; AE2="Navigation system failure"; S2="Traffic camera notifications")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Conflict between other system and navigation");
+        OF(V2="Conflict between other system and navigation");
+        OF(Y2="Conflict between other system and navigation");
+        OF(AB2="Conflict between other system and navigation");
+        OF(AE2="Conflict between other system and navigation")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Navigation interferes with driving tasks");
+        OF(V2="Navigation interferes with driving tasks");
+        OF(Y2="Navigation interferes with driving tasks");
+        OF(AB2="Navigation interferes with driving tasks");
+        OF(AE2="Navigation interferes with driving tasks")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Message notifications interfere with navigation");
+        OF(V2="Message notifications interfere with navigation");
+        OF(Y2="Message notifications interfere with navigation");
+        OF(AB2="Message notifications interfere with navigation");
+        OF(AE2="Message notifications interfere with navigation")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Bad instructions or difficulty interpreting");
+        OF(V2="Bad instructions or difficulty interpreting");
+        OF(Y2="Bad instructions or difficulty interpreting");
+        OF(AB2="Bad instructions or difficulty interpreting");
+        OF(AE2="Bad instructions or difficulty interpreting")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Searching what lane to take");
+        OF(V2="Searching what lane to take");
+        OF(Y2="Searching what lane to take");
+        OF(AB2="Searching what lane to take");
+        OF(AE2="Searching what lane to take")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Communication failure");
+        OF(V2="Communication failure");
+        OF(Y2="Communication failure");
+        OF(AB2="Communication failure");
+        OF(AE2="Communication failure")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Navigation and traffic related notifications");
+        OF(V2="Navigation and traffic related notifications");
+        OF(Y2="Navigation and traffic related notifications");
+        OF(AB2="Navigation and traffic related notifications");
+        OF(AE2="Navigation and traffic related notifications")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Route changes or suggestions");
+        OF(V2="Route changes or suggestions");
+        OF(Y2="Route changes or suggestions");
+        OF(AB2="Route changes or suggestions");
+        OF(AE2="Route changes or suggestions")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Navigation system failure");
+        OF(V2="Navigation system failure");
+        OF(Y2="Navigation system failure");
+        OF(AB2="Navigation system failure");
+        OF(AE2="Navigation system failure")
+    );
+    1;
+    0
+)
+=ALS(
+    OF(
+        OF(S2="Traffic camera notifications");
+        OF(V2="Traffic camera notifications");
+        OF(Y2="Traffic camera notifications");
+        OF(AB2="Traffic camera notifications");
+        OF(AE2="Traffic camera notifications")
+    );
+    1;
+    0
+)

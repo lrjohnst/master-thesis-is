@@ -1,0 +1,56 @@
+codes1,counts1
+Navigation interferes with driving tasks,7
+Navigation and traffic related notifications,5
+Bad instructions or difficulty interpreting,9
+Route changes or suggestions,6
+Conflict between other system and navigation,10
+Navigation system failure,4
+Traffic camera notifications,1
+Searching what lane to take,8
+Communication failure,4
+Message notifications interfere with navigation,5
+codes2,counts2
+Route changes or suggestions,5
+Bad instructions or difficulty interpreting,4
+Navigation interferes with driving tasks,6
+Conflict between other system and navigation,8
+Message notifications interfere with navigation,4
+Navigation system failure,4
+Traffic camera notifications,2
+Communication failure,2
+Navigation and traffic related notifications,4
+Searching what lane to take,3
+codes3,counts3
+Traffic camera notifications,2
+Bad instructions or difficulty interpreting,3
+Conflict between other system and navigation,3
+Navigation and traffic related notifications,4
+Navigation system failure,3
+Navigation interferes with driving tasks,2
+Searching what lane to take,3
+Communication failure,1
+codes4,counts4
+Navigation and traffic related notifications,2
+Bad instructions or difficulty interpreting,2
+Navigation system failure,1
+Navigation interferes with driving tasks,1
+Communication failure,1
+Traffic camera notifications,2
+Route changes or suggestions,1
+codes5,counts5
+Communication failure,1
+Route changes or suggestions,1
+Bad instructions or difficulty interpreting,1
+Conflict between other system and navigation,3
+Navigation and traffic related notifications,1
+codes6,counts6
+Navigation interferes with driving tasks,16
+Navigation and traffic related notifications,16
+Bad instructions or difficulty interpreting,19
+Route changes or suggestions,13
+Conflict between other system and navigation,24
+Navigation system failure,12
+Traffic camera notifications,7
+Searching what lane to take,14
+Communication failure,9
+Message notifications interfere with navigation,9

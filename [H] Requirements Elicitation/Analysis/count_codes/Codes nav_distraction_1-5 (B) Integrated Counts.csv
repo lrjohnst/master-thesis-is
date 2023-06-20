@@ -1,0 +1,37 @@
+codes1,counts1
+Conflict between other system and navigation,1
+Bad instructions or difficulty interpreting,5
+Searching what lane to take,2
+Communication failure,1
+Route changes or suggestions,1
+Navigation system failure,1
+Navigation interferes with driving tasks,2
+Navigation and traffic related notifications,2
+codes2,counts2
+Bad instructions or difficulty interpreting,1
+Communication failure,1
+Conflict between other system and navigation,1
+Navigation and traffic related notifications,1
+Navigation interferes with driving tasks,2
+Navigation system failure,1
+Route changes or suggestions,1
+codes3,counts3
+Bad instructions or difficulty interpreting,2
+Navigation and traffic related notifications,1
+Navigation interferes with driving tasks,1
+Searching what lane to take,1
+codes4,counts4
+Bad instructions or difficulty interpreting,2
+Communication failure,1
+codes5,counts5
+Bad instructions or difficulty interpreting,1
+Conflict between other system and navigation,1
+codes6,counts6
+Conflict between other system and navigation,3
+Bad instructions or difficulty interpreting,11
+Searching what lane to take,3
+Communication failure,3
+Route changes or suggestions,2
+Navigation system failure,2
+Navigation interferes with driving tasks,5
+Navigation and traffic related notifications,4

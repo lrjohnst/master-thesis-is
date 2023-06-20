@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3cb784d8-0e33-40d0-8ce9-a6fbe6cab468" name="srv2.phitech.cloud">
+        <fileTransfer accessType="SFTP" host="srv2.phitech.cloud" port="22" sshConfigId="8b82be51-2324-4e38-b00f-9a62d9b2714f" sshConfig="ploi@srv2.phitech.cloud:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
