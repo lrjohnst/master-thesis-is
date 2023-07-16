@@ -1,0 +1,17 @@
+[Risser85] Risser, R. 1985. Behavior in Traffic Conflict Situations. DOI: https://doi.org/10.1016/0001-4575(85)90020-X Volume 17, Issue 2, April 1985, Pages 179-197 Accident Analysis & Prevention
+
+- Start measuring after 10m (pag. 4/19) to let the driver come to point of 'accentuation'.
+- Use same route for all participants (pag. 4/19) to improve comparability.
+- Define a behavioral standard, so that deviations from the standard can be registered (pag 4/19).
+- "Behavior in a group of precisely defined behavioral settings should be described according to a coding scheme (coding observation)" (pag 4/19).
+- There's a "free observer" and a "coding observer".
+- The free observer marks deviations from behavioral standard, positive and negative, as well as communications, as well as serious and slight conflicts (pag 5/19).
+- The coding observer describes the drive in terms of a predefined coding scheme.
+- The idea is that there should be relations in the data gathered by the two observers not predefined, so a posteriori.
+- My sample can be argued to be fairly average, as in, there are no notable known extremes like 'selected because they have particularly high or low accident rate', or 'are professional drivers'.
+- 
+
+
+There's the problem that the original setup of the WFP demanded one fixed route, while in my study this is (a) not feasible, (b) maybe also not beneficial to the validity. While in other studies, the unpredictableness of having different routes is a variable to be eliminated. But in my study, predictability probably reduces the effect we're trying to accomplish, which is that folks depend on the navigation and thus are influenced by the navigation in the positive or negative sense.
+
+For me, the coding observer would code distractions, events, performance indicators that were also mentioned in the survey and interview. The free observer would observe driving errors, communication events and conflicts. However, for ethical reasons, this study will encourage avoiding any conflicts, errors and unlawful behavior. The free observer now maybe has less of a useful function. The coding observer will describe the car drive in terms of predefined codes.

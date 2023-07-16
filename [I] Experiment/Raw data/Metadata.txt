@@ -1,0 +1,5 @@
+This folder contains raw data for the driving sessions. Each driving session is recorded using two Android Smartphones, using an app called "GPS logger". The app records on a one-second interval: latitude, longitude, speed, timestamp. Additionally, research notes are added, annotated with lat, lon, speed and time. Each recording results in two files: GPX-file, and a KML-file. Therefore each driving session results in four files in total.
+
+Each datafile is named either 'Series A' or 'Series B'. Series A is the primary recording from the Android phone with the highest quality GPS reception. Series B is the backup recording of the same trip with the other Android phone. Each datafile has the timestamp of storage in its name in format: YYYYMMDD-HHMMSS. Finally, each filename contains the track name and name abbreviation.
+
+This data must never be edited directly. In case editing needs to be done, copy the data to somewhere else and edit the copy.

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="srv2.phitech.cloud" id="8b82be51-2324-4e38-b00f-9a62d9b2714f" keyPath="C:\Users\lrjoh\Keys\lucas_ssh_rsa_private_openssh.ppk" port="22" nameFormat="DESCRIPTIVE" username="ploi" useOpenSSHConfig="true" />
-    </configs>
-  </component>
-</project>

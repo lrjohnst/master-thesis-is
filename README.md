@@ -1,1 +1,2 @@
 # master-thesis-is
+All personal data such as names and email addresses have been removed from this document store. Also the raw survey data has been removed as it might allow tracing answers to individual participants. Raw survey data is available upon request.

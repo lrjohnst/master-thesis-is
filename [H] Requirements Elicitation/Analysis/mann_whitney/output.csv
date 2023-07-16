@@ -1,0 +1,22 @@
+test,p
+s_behavior_more_speed vs. i_behavior_more_speed,0.55518911
+s_behavior_less_speed vs. i_behavior_less_speed,0.56234350
+s_behavior_speed_control vs. i_behavior_speed_control,0.08967536
+s_behavior_lane_position vs. i_behavior_lane_position,0.60218972
+s_behavior_reaction_time vs. i_behavior_reaction_time,0.17544411
+s_behavior_wrong_turns vs. i_behavior_wrong_turns,0.36190298
+s_behavior_operating_errors vs. i_behavior_operating_errors,0.46853583
+i_behavior_more_speed vs. z_behavior_more_speed,0.15422145
+i_behavior_less_speed vs. z_behavior_less_speed,0.20761641
+i_behavior_speed_control vs. z_behavior_speed_control,0.16787396
+i_behavior_lane_position vs. z_behavior_lane_position,0.35117794
+i_behavior_reaction_time vs. z_behavior_reaction_time,0.52469254
+i_behavior_wrong_turns vs. z_behavior_wrong_turns,0.21501669
+i_behavior_operating_errors vs. z_behavior_operating_errors,0.48792379
+z_behavior_more_speed vs. s_behavior_more_speed,0.28359058
+z_behavior_less_speed vs. s_behavior_less_speed,0.19817577
+z_behavior_speed_control vs. s_behavior_speed_control,1.00000000
+z_behavior_lane_position vs. s_behavior_lane_position,0.11950641
+z_behavior_reaction_time vs. s_behavior_reaction_time,0.14015056
+z_behavior_wrong_turns vs. s_behavior_wrong_turns,0.06671547
+z_behavior_operating_errors vs. s_behavior_operating_errors,0.16788276

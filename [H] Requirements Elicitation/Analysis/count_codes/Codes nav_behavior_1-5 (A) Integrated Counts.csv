@@ -1,0 +1,30 @@
+codes1,counts1
+Distraction,6
+Lane position,2
+Response time,1
+Decision making,2
+Speed control,1
+codes2,counts2
+Speed control,3
+Decision making,3
+Distraction,2
+Lane position,2
+Response time,1
+codes3,counts3
+Decision making,2
+Speed control,2
+Response time,1
+Distraction,1
+codes4,counts4
+Decision making,2
+Near collision,1
+codes5,counts5
+Decision making,1
+Speed control,1
+codes6,counts6
+Distraction,9
+Lane position,4
+Response time,3
+Decision making,10
+Speed control,7
+Near collision,1

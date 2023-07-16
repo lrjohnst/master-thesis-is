@@ -4,7 +4,7 @@
 
 
 // Read the CSV file
-$csvFile = 'Codes nav_distraction_1-5 (B) Streaming.csv';
+$csvFile = 'Codes Interruptions Streaming.csv';
 $csvData = file_get_contents($csvFile);
 
 // Parse the CSV data
@@ -36,7 +36,7 @@ foreach($results as $column) {
 $stringToWrite = $csv;
 
 // The path to the text file
-$filePath = "Codes nav_distraction_1-5 (B) Streaming Counts.csv";
+$filePath = "Codes Interruptions Streaming Counts.csv";
 
 // Open the file in write mode (creates a new file if it doesn't exist)
 $fileHandle = fopen($filePath, "w");

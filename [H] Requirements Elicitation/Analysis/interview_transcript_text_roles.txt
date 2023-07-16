@@ -1,0 +1,740 @@
+Researcher
+Telefoon staat gewoon op niet storen, dus we. Ja, als het goed is niet afgeleid.
+
+Expert
+Nee, nee.
+
+Researcher
+Nogmaals dank dat je de tijd wil nemen. Oke, dan gaan we naar het eerste onderwerp: Afleiding door navigatiesystemen.
+
+Expert
+Ja.
+
+Researcher
+Zoals ik heb begrepen, ben jij gespecialiseerd in hulpmiddelen tijdens het rijden, en ook effecten die dat heeft op het rijgedrag.
+
+Expert
+Ja, ik heb iets over mijn achtergrond, mijn onderwerp, mijn focus is nu weer iets verlegd, maar. We hebben binnen SLOF best wat onderzoek gedaan met de naturalistic driving methode. Ik weet niet of je daar ooit van hebt gehoord.
+
+Researcher
+Ja.
+
+Expert
+Ja, dus inderdaad, de auto's geïnstrumenteerd met camera's, sensoren, en ze worden teruggegeven aan de eigenaars van de voertuigen, en die gaan dagelijkse ritten daarmee doen, en een half jaar later komen ze terug en halen we de data op van het voertuig. En dat hebben we ook grootschalig gedaan in Europa, in verschillende landen, waarbij zo'n 120 auto's werden uitgerust met dit soort apparatuur, waarin we in totaal 100.000 uur aan data hebben verzameld, ook van trucks, dat is ook wel een groot deel van het volume. En ik heb me in die data gefocust op afleidingen in het verkeer. Mijn specifieke focus was dan wel de mobiele telefoon, maar goed, er zitten natuurlijk veel parallellen in, zou ik kunnen zeggen. En een collega van mij heeft zich toen gefocust op navigatiesystemen.
+
+Researcher
+Ja.
+
+Expert
+Dus daar weet ik ook wel van, en ik heb ook wel wat referenties van zijn werk daarop. En ik heb vooral gekeken in die data naar wanneer gebruiken mensen hun telefoon, hoe doen ze dat, en als ze dat doen, wat zegt dat over hun kijkgedrag, hoe ziet die interactie met die telefoon eruit. Dus vooral prevalentie, impact op kijkgedrag, en hoe reguleren de bestuurders hun gedrag met betrekking tot telefoongebruik. Maar wel breder dan kijken ook. Ja, in relaties of context bijvoorbeeld, opkruisingen, op wegtypen, snelheidsgedrag, en dat soort zaken.
+
+Researcher
+Ik las dat bepaalde combinaties van taken, dat daar ook veelal de afleiding in zit. Bepaalde combinaties, bijvoorbeeld een rood stoplicht, bij een rood stoplicht aankomen in combinatie met andere taken kan heel moeilijk zijn.
+
+Expert
+Ja, er zijn een aantal, kijk het voornamste risico van met je telefoon bezig zijn, is dat je naar je telefoon kijkt en niet naar de weg kijkt. Dus je mist gewoon informatie die relevant is voor het uitvoeren van jouw bestuurders taak. En er is in Amerika ook een grootschalig onderzoek naar gedaan, wat heeft gekeken daar, wat is nou de relatie tussen het niet op de weg kijken, maar naar je telefoon kijken, en risico, kans op een ongeval. En daaruit bleek dat als je langer dan 2 seconden niet op de weg kijkt, dan neemt het risico op een ongeval drastisch toe. Dan zijn het factoren, er zijn verschillende getallen geweest inmiddels met hoeveel je risico dan toeneemt, maar dan wordt het gevaar significant groter. Maar dat betekent niet enkel dat als je 2 seconden lang achter elkaar op je telefoon kijkt, dan het risico is vergroot. Er is ook nog gekeken, doe je dat in een tijdsbestek van 6 seconden bijvoorbeeld. Als je daarvan, dat tijdsbestek, langer dan zoveel op je telefoon kijkt, mis je informatie, dan gaat je situation awareness achteruit. En dat is de informatie die je nodig hebt om een beeld op te bouwen van de context waarin je rijdt. En dan neemt het risico toe. Dat is niet het enige gevaar van mobiele telefoon gebruik, wel het grootste en daarom het meest onderzochte risico. 
+
+Researcher
+Wegkijken en het missen van informatie over de weg en je context.
+
+Expert
+Ja, het missen van die visuele informatie.
+
+Researcher
+Dat is het grootste risico.
+
+Expert
+Dat is het grootste risico. Natuurlijk heb je ook cognitieve afleiding. Je reactietijd neemt toe, je kan minder snel reageren op situaties die jouw actie vereisen. Dat heeft ook impact, het is een stuk moeilijker te meten natuurlijk, cognitieve afleiding. Je hebt ook fysieke afleiding. Je hebt met twee handen je telefoon vast en je moet ineens het stuur vastpakken, dat kost tijd om die handen op het stuur te doen. Dus je hebt cognitieve, visuele en fysieke afleiding waarbij de visuele veruit de meeste impact heeft.
+
+Researcher
+Nou heb ik ook een beetje een zij stapje, nou heb ik ook gehoord over in dit rijtje, 1, 2, 3 en dan 4, auditieve afleiding.
+
+Expert
+Ja, die hoort er ook bij.
+
+Researcher
+Maar speelt dat überhaupt een rol tijdens het rijden? Is die nog noemenswaardig? 
+
+Expert
+Nou, hij hoort in het rijtje thuis, want dan heb je alle.
+
+Researcher
+Ok.
+
+Expert
+En ja, het kan een rol spelen, het wordt nog snel cognitief denk ik hoor. Als je wordt afgeleid omdat jouw telefoon een geluidje geeft, dan wordt je getriggerd door het auditieve signaal. Maar al snel ben je met je aandacht of je ogen niet meer betrokken bij de rijtaak. Het kan natuurlijk ook zijn dat je andere geluiden mist omdat je auditief afgeleid bent. Als je de radio heel hard hebt staan en je hoort geen getoeter of een ambulance. Een vrachtwagen of een ambulance. Signalen die je normaal zouden helpen om een beeld op te bouwen van je rijomgeving, dan zou dat een pure vorm van auditieve afleiding zijn.
+
+Researcher
+Ja. We hebben een aantal specifieke dingen besproken nu, inmiddels. Dat is wel mooi. En dan zou ik weer heel even terug naar iets meer conceptueels willen. En dan kunnen we misschien weer terug naar een iets meer praktische vraag.
+
+Expert
+Ja.
+
+Researcher
+Iets meer conceptueel. Nou, ik denk misschien heb je hier ook al. Wat is voor jou de definitie van afleiding? 
+
+Expert
+Ja, dat is altijd een lastige vraag. Maar het is het niet juist alloceren van je aandacht aan rijtaken gerelateerde zaken. Dat is eigenlijk dus, er is pas sprake van afleiding als je aandachtverdeling naar andere zaken uitgaat die niet van belang zijn of relevant zijn voor het uitvoeren van de rijtaken. Er zijn wel definities over, er worden boeken over geschreven over wat nou precies de definitie van afleiding in het verkeer is. Ik denk dat je die bent tegengekomen. Inattention is ook wel een term die vaker gebruikt wordt.
+
+Researcher
+Deze term heb ik voorbij zien komen in de literatuur. Maar ik kan er niet met zoveel ervaring over spreken als jij.
+
+Expert
+Nee, nee. Dus daar kan ik nog wel een referentie voor aanleveren over het precieze onderscheid tussen die twee.
+
+Researcher
+Misschien, nu komen een paar dingen in me op. Misschien nog voordat ik verder deze stap ga nemen, ik wijs hier nu even mijn lijstje aan, kan ik misschien hier nog even op doorvragen. Navigatiesystemen. In hoeverre is dit een onderwerp van belang binnen SWOV, binnen de academische onderzoek, binnen jullie onderzoek. Navigatiesystemen en afleiding daarin.
+
+Expert
+Ja, het is een relevant onderwerp en we hebben er ook wel naar gekeken. We hebben vaker het onderwerp afleiding in het verkeer onder de loep gelegd. Waarbij je al snel op de mobiele telefoon uitkomt, maar ook navigatie een onderwerp van onderzoek was. Ik weet niet of je onze factsheet hebt gezien over afleiding in het verkeer. Daar is ook een kort stuk over navigatiesystemen. De bevindingen tot nu toe zijn redelijk positief, ook niet heel sterk alarmerend. Het heeft ook echt wel voordelige effecten, het gebruik van navigatiesystemen. Minder zoekgedrag, meer ontspanning in het rijden. Wat efficiënter gebruik van de weg. Maar ook wat nadelige effecten, en dat is dan natuurlijk die afleiding. Mensen die toch hun navigatiesysteem bedienen tijdens het rijden. Terwijl ze een aandacht op de weg moeten hebben. We hebben dit ook wel gezien in de Naturalistic Driving Studies. Dat over het algemeen bedienen bestuurders hun navigatiesysteem voordat ze gaan rijden. Dat is positief, als ze stilstaan voeren ze hun bestemming in. Verder luisteren ze naar het apparaat en kijken er af en toe naar als er een nieuwe instructie komt. Maar dat kijkgedrag was niet buiten proportioneel veel aandacht voor dat systeem. We zagen wel dat het meer anekdotisch is. Er zijn ook mensen die hem wel bedienen tijdens het rijden. Dat is wel echt een issue. Het is ook vaak lastig om het tijdens het rijden te bedienen.
+
+Researcher
+Ik heb gelezen dat het van alle afleidingen die je navigatiesysteem kan veroorzaken, is dat de grootste.
+
+Expert
+Ja, precies. Het bedienen is echt. We hebben toen onze studies met een specifiek merk navigatiesysteem gedaan. Wat we tegenkwamen was dat soms mensen hun apparaat harder wilden zetten. Nu is het duur voor fabrikanten van portable navigatiesystemen om daar een knopje voor aan te leggen. Het duurde dan gewoon iets op het scherm, een volumeslider te noemen. Maar dat maakte wel dat het heel lastig was om het volume omhoog te krijgen. Zeker als je aan het rijden bent, aan het opletten bent. Je moest eerst het juiste minuutje en dan die slider bedienen. Dat zorgde echt voor extra afleiding. We zagen ook, maar dan praten we over 5 of 10 jaar geleden, dat mensen ook gebruik maakten van voice bediening. Ik denk dat dat tegenwoordig wel anders is. Maar toen der tijd werkte dat nog niet zo goed. Dus mensen drukte op de knop om via stem instructie of bestemming aan hun navigatiesysteem te geven. Het zorgde eigenlijk voor meer afleiding dan wanneer ze het ingetypt hadden. Want ze moesten de straatnaam noemen, controleren of het apparaat hen begrepen had. Dat was niet zo. Dan mocht je de knoppen drukken om weer terug te gaan, opnieuw te proberen. Dat werkte eerder meer afleidend, cognitief, maar ook visueel en fysiek.
+
+Researcher
+Zie jij verschillende soorten navigatiesystemen of verschillende types navigatiesystemen? Of misschien wel verschillende apps, verschillende apparaten, waarvan jij zou zeggen, nou die zijn wel echt verschillend, qua afleiding?
+
+Expert
+We hebben er nooit aan gekeken. Dus ik kan er niet hele sterke uitspraken over doen. Ik denk wel dat compleet geïntegreerde navigatiesystemen qua interface wat intuitiever zijn. Dus als je hem harder wilt hebben, je weet waarschijnlijk al waar de volumeknop van je complete audiosysteem in de auto zit. Vaak is het van mezelf om je navigatie te veranderen. Wat is intuitiever dan die telefoon waar je ook nog verder voor moet reiken om hem te bedienen. Dus ik denk wel dat dat een verschil maakt.
+
+Researcher
+Wat zou dat verschil precies zijn? Zou je dat misschien iets kunnen proberen te verdiepen? Ik ben inderdaad geïntegreerd tussen het geïntegreerde navigatiesysteem en de telefoon.
+
+Expert
+Ik denk dat het geïntegreerde navigatiesysteem, de hele cockpit waarin je zit, zo gemaakt is dat je hem gemakkelijk kan bedienen. Intuitiever kan bedienen. En als je een externe apparaat inbrengt in de auto, dan verder wel naar een paar locaties waar de meeste mensen dat systeem plaatsen. Maar het kan voor iedereen verschillend zijn. Het is een stuk lastiger om daar dan op te ontwerpen, zodat je het makkelijk kan bedienen. De meest gebruikte functies makkelijk toegankelijk hebt. Ik denk dat dat een verschil is of maakt dat het geïntegreerd systeem voor wat minder afleiding zou kunnen zorgen. Maar nogmaals, we hebben er niet naar gekeken. Ik ben ook wel benieuwd, je hebt tegenwoordig ook veel systemen in de auto's waarbij je je telefoon en je navigatie vanuit je telefoon koppelt aan de displays op je telefoon. Daar heb ik geen ervaring mee. Ik denk dat het een deel van deze bezwaren kan wegnemen. Misschien ook nieuwe kan introduceren, durf ik niet te zeggen. Op zich interessante ontwikkelingen, waarbij ook wat goeds uit kan komen, denk ik.
+
+Researcher
+Ik heb tussendoor een anekdote gehoord, dat het fijn is met het streamen van je navigatie, dat je altijd een navigatiesysteem hebt wat up-to-date is. Dan weet je dat je betere instructies krijgt.
+
+Expert
+Ja, en inderdaad die real-time informatie van files, wegafsluitingen of gebeurtenissen op de weg, die heb je ook meteen bereikbaar.
+
+Researcher
+Het klinkt, zoals jij het uitlegt, ook als ernaar dat een bestuurder meer vertrouwd is met zijn cockpit, met zijn informatiesysteem en zijn auto. Dan kunnen we meteen weer koppelen aan waar we ons gesprek vandaag begonnen, met de context. De bestuurssist zit in een context waarin hij vertrouwd is met de bediening. Terwijl als je met verschillende apps, dan weer met Google Maps, dan weer met Apple, en verschillende soorten van bediening, verschillende locaties, dat dat minder vertrouwd is, dat dat weer meer afleiding kan veroorzaken.
+
+Expert
+Ja.
+
+Researcher
+Het zou kunnen dat je deze vraag al beantwoord hebt hoor, maar ik ga het toch proberen. Wat gebeurt er dan als een persoon minder vertrouwd is met zijn bediening? Wat gebeurt er dan in de auto?
+
+Expert
+Het vereist meer cognitieve inspanning, denk ik. Dus hij moet zich een deel proberen te vormen van hoe dat systeem werkt, hoe hij het moet bedienen. Misschien iets meer zoeken naar hoe hij het doel wat hij heeft kan bereiken. Ik denk ook vaker naar het systeem kijken, om te checken dat wat je wilt doen, dat het ook het beoogde effect heeft. Als je precies weet hoe het werkt, dan druk je op de knop, of je voert verhandelingen uit, en je weet wat de feedback van het systeem zal zijn, zonder dat je dat hoeft te controleren, want je hebt het al tien keren gedaan. Dus anderdaad denk ik, een grotere cognitieve inspanning, en mogelijk ook meer visuele afleiding.
+
+Researcher
+Duidelijk. Dank je wel. Nu zie ik een mooie gelegenheid om naar het volgende onderwerp te gaan. Ja, want het is ook een beetje een bruggetje, we hebben het al heel veel over gehad, de relatie tussen navigatiesysteem en afleiding, en dan de interface en dan ook de context. Zijn er bepaalde manieren van input, waarvan jij zegt dat is meer of minder behulpzaam tijdens navigatie? En je bedoelt manieren hoe je input kan geven aan dat apparaat? En we kunnen het ook breder pakken, wat is de rol van bijvoorbeeld knoppen of touchscreen of voice control in afleiding bij navigatiesystemen? En als je daar.
+
+Expert
+Er moeten een aantal factoren van belang zijn, en dat is dat de visuele aandacht die ervoor nodig is om dat systeem te bedienen, die moet geminimaliseerd blijven, of die moet minimaal zijn. Dat is denk ik een voorwaarde, en of dan een knop of een bediening op een display het een te pretareren is, boven anderen durf ik niet te zeggen. Dat is ook niet helemaal mijn vakgebied, ik denk dat een knop een sneller effect heeft dan iets zoeken op een display en daar het juiste aan raken, want dat ligt er ook maar net aan waar het zich bevindt, of het een mobiel apparaat is of dat op een display is die geïntegreerd is in de auto. Dus visuele afleiding moet zo minimaal mogelijk blijven, en ik denk dat de interactie die je hebt met het systeem, van begin tot je doel bereikt hebt, moet zo zijn ontworpen dat het zich er goed voor leent om in stukjes opgebroken te worden. Dat zien dat bestuurders heel vaak doen, dat ze hun acties in stukjes opbreken, dan weet de aandacht voor de weg, dan de aandacht voor de neventaak, dan de aandacht voor de weg. En sommige taken lenen zich daar beter voor dan anderen. Als je een invoer hebt waarbij je een bepaalde vertraging hebt ingebouwd en je moet reageren binnen drie seconden, anders staat het systeem alweer in een andere stand, leent het zich er niet goed voor om onderbroken te worden. Dan moet je in één keer door, die taak afmaken.
+
+Researcher
+En dan ben je langer aan één stuk door afgeleid, en die twee seconden binnen die zes seconden zit je dan al snel op.
+
+Expert
+En we zien dat mensen op zich in het opdelen in dit soort neventaken, dat ze er best goed in zijn. En dat blijkt ook wel, want de telefoon wordt heel veel gebruikt in het verkeer. Is een risico, maar als je ziet hoeveel het gebruikt wordt, dan doen mensen dat eigenlijk best wel knap, zeg maar. En dan moet je ook twee taken tegelijk uitvoeren. En dat komt omdat als ze een berichtje sturen, dan weten ze dat heel goed te managen, het verdelen van die aandacht. Maar je hebt ook taken waarbij dat minder goed gaat, bijvoorbeeld als je een filmpje kijkt, dan wordt je aandacht daar naartoe getrokken en dan wil je per se zien hoe het zich dan ontwikkelt. Je kan het ook niet timen hoe dat verloopt. Dan wordt het kritischer, die afleiding.
+
+Researcher
+Ik heb daar een artikel over gelezen dat eigenlijk specifiek over dit onderwerp gaat, wat jij zegt, het opbreken van de taken. En ze hadden het ook over cognitive capture.
+
+Expert
+Ja, precies. Hoe immersive die neventaak is.
+
+Researcher
+Wat is eigenlijk zoekgedrag? Je noemde deze term net.
+
+Expert
+In welke context is het? Bedoel je om je auto te navigeren of bedoel je op de display? 
+
+Researcher
+Jij meldde dat naar aanleiding van de fact sheet en het document wat erbij hoorde, dat navigatie een positief effect heeft in de zin van dat het zoekgedrag minder wordt.
+
+Expert
+Ja, bijvoorbeeld wanneer je een complexe verkeerssituatie of een complexe kruispunt nadert en je moet een bepaalde afslag hebben. Dan kan de navigatie je daarbij helpen om van tevoren al iets inzicht te krijgen in hoe dat kruispunt eruit ziet. Welke afslag je precies moet hebben en door je aandacht te verdelen tussen wat je ziet op het scherm en wat je ziet in werkelijkheid, wordt je wat soepeler door die situatie heen geleid dan wanneer je geen navigatie hebt of enkele instructies op het een linksaf. En dan moet je vaak nog zoeken naar is het nou deze afslag. Ik zie het bord hier, is dat inderdaad de richting waarin ik moet rijden? Je kopieert eigenlijk wat je op het schermpje ziet en dat maakt de hele zoekervaring wat makkelijker. Volgens mij als je bijvoorbeeld door Parijs heen navigeren was vroeger best een uitdaging als je het puur op kaart materiaal deed, want je moest in de gaten houden op wat je eindebestemming was en welke richting je daarvoor moest hebben. Tegenwoordig volgen veel mensen gewoon het pijltje van de navigatie en worden vlekkeloos, moeiteloos door zo'n complex stad heen geleid.
+
+Researcher
+Lijkt me alsnog best moeilijk in Parijs te rijden.
+
+Expert
+Het blijft een uitdaging, maar het is volgens mij wel makkelijker geworden dan het vroeger was. Wanneer je het verkeerd doet dan helpt de navigatie je natuurlijk ook, want het rekent opnieuw, het is meteen een nieuwe route, dus dan rijd je een blokje om, maar dan hoef je niet eindeloos door een richtingstraat opnieuw een punt te vinden vanaf waar je wel de weg weet.
+
+Researcher
+Dan hebben we hier zoekgedrag en dan hebben we nu ook een verkeerde afslag, bijvoorbeeld een verkeerde afslag nemen en opnieuw moeten navigeren. Hoe belangrijk zijn deze twee elementen? 
+
+Expert
+Ik weet niet of er echt getallen over zijn, dus als je echt deze factoren gaat bekijken en in hoeverre ze nou ook leiden tot risicovolle situaties. Ik weet niet of dat ooit gekwantificeerd is, dus die link is logisch, als mensen een volledige cognitieve capaciteit nodig hebben om zich door een bepaalde situatie heen te navigeren en eigenlijk geen restcapaciteit meer hebben om onverwachte situaties op te vangen, dan theoretisch gezien zou je een probleem kunnen hebben. Want ze zijn maximaal bezig en met de maximale inspanning om zich te navigeren. Mocht er dan ineens een bal de straat op rollen of een fiets oversteken, dan is het lastiger om erop te reageren of sneller te reageren dan wanneer je daar met ruime spercapaciteit doorheen navigeert. Dat is theoretisch. Ik durf niet te zeggen of dat ook daadwerkelijk onderzocht is.
+
+Researcher
+Wat voor effecten op rijvaardigheid zou jij zeggen die misschien wel in relatie kunnen staan tot afleiding met navigatiesystemen? 
+
+Expert
+Even denken hoor, of ik de vraag goed begrijp. Wat voor effecten in relatie tot rijvaardigheid? Hoe kan nou, even kijken.
+
+Researcher
+Nou, nee, inderdaad. Ik mag het iets specifieker maken. Concreet op de weg, zo concreet mogelijk. Wat gebeurt er dan wanneer een persoon afgeleid raakt? Misschien wel gevaarlijke situaties qua bediening van de auto.
+
+Expert
+Ja, als een persoon afgeleid raakt, dan zou je dat terug kunnen moeten zien in allerlei performance measures. Maar het hoeft nog niet eens. Dus als iemand gewoon een voetganger mist die de weg oploopt en daar tegenaan rijdt, dan merk je niks in de performance measures, maar heb je toch een ongeval. Je kan het ook zien in een aantal standard performance measures, van dat slingergedrag of standard deviation of lane position.
+
+Researcher
+Zijn dat niet uiteindelijk dezelfde measures, deze twee?
+
+Ja, het is eentje. SDLP wordt die vaak genoemd in de literatuur. Dat is dan de standard deviation of lane position. Wat neerkomt op jouw slingergedrag, zeg maar. Je ziet het ook vaak in, op een andere manier, een stuurgedrag. Dat is steering jerk of jerk behavior. Dat is het feit dat je pas vrij laat corrigeert en daardoor wat abrupter stuurt. Dat ken je wel. Dat moet je kunnen zien in de afgeleiding van de stuurhoek. Veranderingen zijn sneller. Dat is ook een threshold voor wanneer je dat een jerk noemt. Als je het over grote hoeveelheden data bekijkt, dan zou je kunnen zien dat bij afgeleid rijden je meer steering wheel jerks hebt dan bij niet afgeleid rijden. Hetzelfde geldt voor remgedrag. En natuurlijk überhaupt harde remvertragingen. Die kunnen geassocieerd worden met afgeleid rijden, omdat je ineens hard moet remmen, omdat je niet eerder die situatie hebt opgemerkt en daardoor later op moet ingrijpen. Maar überhaupt ook abruptere rembewegingen. Dat zijn de bekende performance measures. Hebben we er nog meer? Dit zijn wel op een gegeven moment de bekendste en belangrijkste. De andere is nog time to collision of time headway. De afstand die je tot je voorligger hebt. En daaraan gerelateerd post-encroachment time. Dus time to collision of time headway is de afstand tot je voorligger. Maar stel voor je kruist elkaar op een kruispunt en je gaat rakelingsachtig iemand langs. Wel als je er echt op een haarna langs gaat, dan is je post-encroachment time nul. Dan heb je hem net niet geraakt. Is die afstand ruimer, dan wordt die post-encroachment.
+
+Researcher
+Zo wordt dat meetbaar gemaakt. Dat is mooi.
+
+Expert
+Dat is ook nog een bekende performance measure. Mis je er nog die je bent tegengekomen? 
+
+Researcher
+Ja, ik ben aan het nadenken of ik hem zal verklappen.
+
+Expert
+Ik denk wel, hebben we er nog meer? 
+
+Researcher
+Zie jij wel eens een van deze measures in relatie tot navigatiesystemen? Of wat voor relaties zie je dan? 
+
+Expert
+Snelheidsgedraggedrag is er nog eentje.
+
+Researcher
+Die ging nog verklappen.
+
+Expert
+Met navigatie heb ik er zelf niet naar gekeken. Met telefoongebruik hebben we er wel naar gekeken. Maar je hebt al snel heel veel data nodig wil je echt die deterioration in de performance measures terugzien. Ik heb wel de snelheidsgedrag gekeken. Wanneer je telefoon gebruikt, zie je vaak een wat constantere snelheidsgedrag. Dat geeft juist aan dat mensen een moment zoeken om die telefoon te gebruiken. Vaak ook een wat lagere gemiddelde snelheid. Dus achter een truck aan gaan rijden en dan hun telefoon bedienen. Je ziet het ook wel veel in de buurt van momenten wanneer er stil gestaan wordt. Als je van het grote tijdsverstek kijkt, zie je dat de snelheid omlaag gaat. Als ze de telefoon gebruiken, maar dat komt omdat ze toerijden naar een stoplicht. Hun telefoon al pakken, wat gaan doen en vervolgens gaat het licht weer op groen. En dan gaat de telefoon weer weg. Wat je daarbij wel zag trouwens ook is dat, op het moment dat ze toch wel graag willen afmaken, waar ze aan begonnen zijn, maar het stoplicht gaat al op groen. Ze toch nog wel even door gaan vaker, terwijl ze al weer wegrijden. En dat is vaak wel een kritisch moment, want je rijdt op een kruispunt waar meer potentiële conflicten zijn. Waarbij je eigenlijk juist alle aandacht te weg zou willen hebben. Slingergedrag is volgens mij wel heel vaak aangetoond. Zeker in simulator studies, dat is een van de grootste, denk ik, een van de eerste performance measures waarin je de telefoon gebruikt ziet.
+
+Researcher
+En wat zijn nou de gevaarlijkste gedragingen die voort kunnen komen uit de afleiding? Je noemt het. Even kijken. Ja, wat ik dan zie is een gedraging en een effect wat we zien op de weg. En is er toch bijna een risico dat ik die toch een beetje door elkaar ga halen. Zijn dat twee dingen die jullie in jullie studie ook goed uit elkaar blijven houden?
+
+Expert
+En dan bedoel je het effect op die performance measures? 
+
+Researcher
+De performance measures en de concrete effecten die we dan zien op de weg. Zoals bijvoorbeeld teveel met de telefoon bezig zijn op dat kritische moment op het kruispunt bij het wegrijden.
+
+Expert
+Ja, nee dat houden we wel uit elkaar. Ik denk het ene is echt het gedrag van de bestuurder wat je waarneemt. En dat heeft impact op de prestatie op de rijtaak. En dat zijn dan die performance measures. Dat zijn wel twee, juist twee zaken die je in verband met elkaar brengt in analyses. Dus dat waargenomen performance en het gedrag van die bestuurder. 
+
+Researcher
+De performance en het gedrag. En de performance is bijvoorbeeld het slingeren. En het gedrag dat is concreet wat er gebeurt op de weg. 
+
+Expert
+Met die telefoon bezig zijn. Dus die interactie met het apparaat.
+
+Researcher
+En het een heeft een gevolgrelatie tot het ander. En dat is het gedrag heeft een gevolgrelatie tot de performance.
+
+Expert
+Ja, ja, ja. Waarbij het bijna altijd zo is dat die interactie of die neventaak die wordt uitgevoerd. Dat het een negatief effect heeft op het uitvoeren van de rijtaak. Zichtbaar in de performance measures en zichtbaar in de risico's. Niet altijd zo. Er zijn ook uit de Naturalistic Driving studies bij professionele bestuurders. Er werd ook naar mobiel telefoongebruik gekeken. En met name ook het voeren van gesprekken. En daarbij vonden ze tot hun verbazing dat het voeren van gesprekken een positief effect had op het risico. Met andere woorden die mensen reden veiliger dan collega's die niet telefoongesprekken voerden tijdens het rijden. Maar er was ook wel een verklaring voor. Dat ging vaak om nachtshift workers die slaperig werden. En een manier om hun arousal niveau op pijl te houden was een telefoongesprek voeren. Naar huis bellen, met hun vrouw bellen en gewoon een gesprek aangaan. Dus dat is ook een beetje iets waar ik me nu meer mee bezig hou met voertuigautomatisering. Je moet ook een bepaalde mate van inspanning of workload hebben om optimaal te kunnen presteren. Dat is een beetje een badkuip curve. Een omgekeerde badkuip. Dus als je heel weinig inspanning hoeft te leveren dan presteer je niet zo goed. Dan is het te makkelijk en dan raak je sneller afgeleid. Je raakt verveeld. Negatieve invloed op je performance. Als je prima gebalanceerde workload hebt dan plesteer je je optimaal. Wordt de taak te moeilijk, vraagt het zoveel van je, dan neemt je prestatie weer af.
+
+Researcher
+En de badkuip is omdat daar tussen zit een heel vlak stuk.
+
+Expert
+Ja, precies. En dat is met voertuigautomatisering relevant. Als je heel wat systemen hebt die de rijtrek van je overnemen. Bijvoorbeeld een adaptive cruise control. Een cruise control die vanzelf afstand houdt. En een lane centering systeem. Hij houdt je zelf binnen de wegbeleiding. Daar heb je niks mee te doen als bestuurder. Dat is heel saai. Het is heel lastig om je aandacht erbij te houden. Terwijl dat toch wel moet. Want die systemen zijn nog niet perfect. Je moet ook kunnen ingrijpen. En daarin spelen ook afleidende taken zoals een mobiele telefoon een rol. Een goed gekozen afleidende taak zou er ook voor kunnen zorgen dat je juist dat arousal niveau optimaal houdt. Dus er is ook wel naar gekeken naar kunnen we niet een neventaak toevoegen aan het uitvoeren van die rijtaak. Die niet teveel visueel afleidt, niet teveel cognitief afleidt. Maar wel een zekere inspanning vraagt wat die bestuurders gewoon attentief en wakker en aroused houdt. 
+
+Researcher
+Lekker naar de radio luisteren.
+
+Expert
+Er is een simulatoronderzoek naar genaam waarbij een soort trivia quiz werd geïntroduceerd. Iets wat nog wat vraagt van de bestuurders. Je kan het ook nog relateren aan de context waarin ze rijden natuurlijk. Om de aandacht, het goede zakengericht te houden.
+
+Researcher
+Heeft het ook een relatie met, even kijken. Ja het heeft een relatie met aandacht. En des te meer je wakker bent, wakker en alert, des te meer aandacht je kunt hebben. Als je al te lang hebt gereden, dan ben je minder wakker. Dan kun je minder aandacht hebben voor de weg. Ergens zie ik daarin een relatie met wat jij net aan mij vertelt.
+
+Expert
+Ja.
+
+Researcher
+Wat zie ik hier?
+
+Expert
+Je hebt hier ook modellen voor. Je hebt natuurlijk de rijtaken en je hebt een bepaalde demand. En je hebt een bepaalde capaciteit als bestuurder. En je wil dat daar een soort optimum tussen die twee ontstaat. Maar er zijn allerlei factoren waardoor jouw capaciteit achteruit kan gaan. En dat is onder andere slaap, maar ook alcohol en drugs bijvoorbeeld. Waardoor jouw capaciteit op een gegeven moment zo laag is dat die demand niet meer aankan. En dan kom je in een risicovolle situatie.
+
+{{naam van model onverstaanbaar}}, ben je misschien tegengekomen.
+
+Researcher
+Deze ben ik specifiek denk ik niet tegengekomen.
+
+Expert
+Nee, het is een veel aangehaalde model ook.
+
+Researcher
+Ja, en dat is dan weer cognitief.
+
+Expert
+Ja. 
+
+Researcher
+En nu ben ik aan het zoeken, aan het calculating. Kijken of ik een relatie kan vinden tussen dit en het navigatiesysteem. Waar jij op dit moment op aan het focussen bent, is de relatie tussen hulpmiddelen en de aandacht. En hoe hulpmiddelen de aandacht opslurpen.
+
+Expert
+Ja.
+
+Researcher
+Maar misschien ook wel, hoe hulpmiddelen de aandacht, even kijken, het juist zo makkelijk maken dat de aandacht omlaag gaat. Dat je aan de linkerkant van de badkuip, of aan de rechterkant, hoe je het maar wil zien. 
+
+Expert
+Ja, ja.
+
+Researcher
+Nou, navigatiesystemen kunnen ook, zoals we ook besproken hebben, een ondersteunende rol verrichten. Kan een navigatiesysteem bijdragen aan het eraan dat een persoon te veel naar links en de linkerkant van die badkup kan komen? Of is dat vergezocht? Misschien is het wel gewoon verwaarloosbaar dat dat effect niet. Ja, wat denk je? 
+
+Expert
+Ik denk dat het wel meevalt. Ik zou moeten onderzoeken om er echt iets over te kunnen zeggen. Ik denk dat het meevalt hoe sterk de rol van navigatie daarin is. Alleen ik plaats het dan ook, omdat we daarmee bezig zijn, in de context van voertuigautomatisering. Daarbij kan je je natuurlijk afvroeger vragen wat daarin dan de rol van navigatie wordt. Nu is het echt een ondersteuning die jou als bestuurder helpt om jou. Je bestuurt handmatig je auto om jou daarin te navigeren. Dat kan veranderen in de toekomst natuurlijk, waarbij de auto zelf een deel rijdt, jij zelf een deel rijdt. Dus die rol van navigatie daarin wordt anders denk ik. Dan is het denk ik ook wat meer de hele interface van die auto die van belang is. Hoe die jou zo goed mogelijk ondersteunt en jou zo optimaal mogelijk laat presteren voor de momenten dat jij moet presteren in die auto. Dan wordt het wat ingewikkelder denk ik.
+
+Researcher
+Ja, daar kan ik me heel goed voorstellen dat je nu het hele systeem gaat bekijken.
+
+Expert
+Ja, als bestuurder moet je goed weten waar je aan toe bent, wat jouw verantwoordelijkheid is. In het huidige handmatig rijden is de rol van navigatie daarin niet zo groot denk ik. Want het is een hulpmiddel wat jou helpt de juiste afslag te nemen. Ik denk in de toekomstige auto's kan dat navigatiesysteem jou ook een idee geven van wanneer je ondersteuning kan verwachten. Wanneer je volledig de controle kan overgeven aan de auto. En daarin goed inzicht krijgen in wat jouw verantwoordelijkheid is. Wat de verantwoordelijkheid van de auto is en waar die begint en waar die eindigt zeg maar. En wat die verantwoordelijkheid precies inhoudt. Daarin is navigatie wel een onderdeel. We hebben het zelf in een recent onderzoek wat we hebben gedaan. Dat gaat erom dat je altijd heel goed weet wat de modus is van de auto. De huidige stand van de automatisering. Daar hebben we ook wel met navigatie gewerkt. Waarin je van tevoren bijvoorbeeld een overzicht krijgt. Dit is jouw route. Je wilt van A naar B. Je krijgt in het begin een overzicht van de route. Van hier heb je een stukje handmatig rijden. Dat stukje weten we niet zo goed wat we voor ondersteuning kunnen bieden. Daar heb je een heel stuk waarin je zelf mag weten wat je doet. Want dan kan de auto het voor je overnemen. Dat draagt heel sterk bij aan jou een goed idee geven van waar de verantwoordelijkheden liggen. Wanneer die beginnen en wanneer die eindigen. En daar speelt navigatie een rol in. Het overzicht van een kaart en wanneer er wat gebeurt is een onderdeel wat denkt aan navigatie. 
+
+Researcher
+Het zou visueel kunnen worden weergegeven. Dit stuk hoef je.
+
+Expert
+Net zoals je nu een kaart hebt van Google Maps die zegt hierin is het free flow traffic. Hierin is het wat file. Zo'n soort kaart zou je ook kunnen geven voor wat voor ondersteuning je kan verwachten. Maar het haalt een beetje af van waar jij mee bezig bent. Ik denk wel dat het iets is wat in de toekomst steeds belangrijker wordt. En ook belangrijker dat het helemaal geïntegreerd wordt in die interface waar je als bestuurder mee te maken krijgt.
+
+Researcher
+Nu waren we bij rijvaardigheid. Dan zou ik terug willen naar rijvaardigheid. We hebben het gehad over indicators of measures. Zouden we misschien wel hetzelfde kunnen noemen. Zou je mij een hele korte introductie kunnen geven met betrekking tot. Hoe kunnen indicatoren van rijvaardigheid gemeten worden? Ik ben ook nieuwsgierig naar wat voor indicatoren om rijvaardigheid te meten zouden eventueel realistisch zijn. Voor mij als afstudeerstudent om zelf uit te voeren.
+
+Expert
+Wat voor mogelijkheden heb je om zelf uit te voeren? Gaat het om een rijsimulatorstudie? Wat zijn je mogelijkheden? 
+
+Researcher
+Op dit moment heb ik interviews, waaronder met jou. En ik heb een enquête. Hierna wil ik bij personen in de auto zitten terwijl zij een stuk met de navigatie rijden. Waarbij ik metingen maak om rijvaardigheid te meten. Ik heb er één specifiek waarvan ik denk dat ik wel goed kan meten. Dat is de snelheid. Ik heb een app gevonden waarbij ik met een interval van 5 seconden de snelheid kan vastleggen. Er kan een CSV'tje uitkomen en daar kan ik denk ik wel een mooie analyse op doen.
+
+Expert
+Ook in relatie tot de maximale snelheid?
+
+Researcher
+Met een beetje moeite kan ik me voorstellen dat het wel haalbaar is. Als ik de route vooraf bestudeer. Dus er kunnen niet 40 participanten 40 verschillende routes zijn, dat is niet haalbaar. Maar één specifieke route of om het voor de participanten makkelijker te maken, 4 verschillende routes voor de participanten in de buurt. Dat zou eventueel haalbaar kunnen zijn.
+
+Expert
+Ja, ja.
+
+Researcher
+Sommige zijn.
+
+Expert
+Echt van die performance measures is het best wel lastig, want dan heb je al snel technologie nodig.
+
+Researcher
+Ja.
+
+Expert
+Dus het gaat toch wat meer om een scoring die jij zou moeten geven aan kenmerken van hun rijgedrag. Ik heb lang geleden, ik weet niet of je dat nog eens hebt gehoord, van de Wiener Fahr Probe. Dat is ook een soort beoordelingsmethodiek die iets zegt over. Ja, dat zou ik nog eens opzoeken. We hebben ooit een Europees project gedaan, waarin we ook kleinschalig naturalistic driving data hebben verzameld. Daarbij was de focus ook op telefoongebruik en navigatiesysteem gebruik.
+
+Researcher
+Ja.
+
+Expert
+Ik zou echt wel even moeten graven wat nou precies de opzet ook alweer was van die studies. Eén onderdeel was ook dat mensen geobserveerd werden tijdens het rijden van een bepaalde route. En daarbij werd de Wiener Fahr Probe gebruikt. Die Oostenrijk ontwikkeld is door een instituut daar. Ik weet niet meer precies wat die verschillende condities waren. Er werden verschillende condities gebruikt, bijvoorbeeld met navigatie en zonder navigatie. Ik denk dat je dat ook voor ogen hebt om dat te doen. Als je echt een verschil wilt kunnen vinden in je analyse, dan zou je een baseline-conditie en een experiment met deze conditie, waarin mensen wat anders doen dan in een baseline-conditie. Daar zou misschien nog wel relevante literatuur voor je kunnen liggen. 
+
+Researcher
+Ik zal deze sowieso opzoeken, de Wiener Fahr Probe. Deze is tot nu toe gebruikt in kleinere naturalistic driving studies.
+
+Expert
+We hadden daar naast naturalistic driving studies deze wat meer kwalitatieve beoordeling. Ik denk dat dat veel haalbaarder was voor je. Een technologische oplossing waarin je naar time headway of naar slingergedrag of dat soort dingen. Maar ik denk dat je kan het wel een beoordeling geven aan slingergedrag. Als dat tot andere bestuurders dan zou je wel op puntenschade kunnen gaan werken waarin je dat kan proberen te vatten. Ik denk dat dat wel interessante literatuur voor je is. Die kan ik wel opzoeken.
+
+===
+46:55
+===
+
+Researcher
+Oke, om het even te samenvatten, want het is heel interessant en ik wil het niet kwijtraken. Wat je zegt is de Wiener Fahrbrobe, is dat een bepaalde methode, een bepaalde set aan instrumenten? 
+
+Expert
+Ja.
+
+Researcher
+Doel je er dan ook op wat je zegt, het meten van kwalitatieve zaken? Door bijvoorbeeld met jouw subjectieve ervaring de headway te scoren? 
+
+Expert
+Ja, ik weet niet meer precies wat erin zat, maar alle gedragingen die je bestuurders neerlegt, die leg je vast op een, het is niet echt superkwalitatief natuurlijk, maar op basis van jouw beoordeling. Als je dat een aantal keer in je set bestuurders doet, dan kan je dat wel weer in getallen omzetten en analyse of zo.
+
+Researcher
+Oke, en jij zegt dat dit zo interessant kan zijn? Ja. En dat vind ik heel waardevol, dankjewel. Daar heb ik persoonlijk nog niet, ja, dat is echt heel mooi. Zo'n subjectieve meting is misschien, is toch lastig, maar subjectief is subjectief, maar het is toch beter dan niets. En het is haalbaarder.
+
+Expert
+Het is haalbaarder, maar ik denk dat je, als je het op de juiste manier doet, er soms ook veel meer uit kan halen dan wanneer je enkel op kwantitatieve methoden gebruikt. Want je observeert en je ziet allerlei dingen gebeuren en dan probeer je ze zo goed mogelijk in een instrument vast te leggen. En vaak zie je dan op een gegeven moment een patroon of verschillen in gedragingen die je niet op voorhand in die kwantitatieve methoden zou vast kunnen leggen. Dus ik denk dat het heel waardevol is om ook juist wat je ziet gebeuren en je probeert je zoveel mogelijk te baseren op instrumenten die je erin gebruikt om het zo gestructureerd mogelijk te doen. Vaak kan je daar juist hele interessante zaken uit halen die weer aanleiding zijn tot vervolg onderzoek of nieuwe vragen kunnen genereren die je dan uiteindelijk weer op een echt kwantitatieve manier kan vormgeven. Dus ik denk dat het zeker een waardevol aanpak.
+
+Researcher
+Dat is inspirerend, oprecht inspirerend. Dankjewel. Wat ik ook in gedachten had was het simpelweg aftossen van bepaalde triggers die misschien afleiding kunnen veroorzaken. Dus die ga ik zometeen uit mijn enquête verkrijgen door te coderen.
+
+Expert
+Ik heb 'm doorlopen.
+
+Researcher
+Ik heb ze bij me.
+
+Expert
+Komen daar interessante aanknopingspunten uit?
+
+Researcher
+Ja, zeker. Ik heb ze bij me.
+
+===
+00:50
+===
+
+Researcher
+Dan hebben we nog één onderwerp, of nou twee eigenlijk. Hoe wetgeving zou kunnen helpen en laten we samen naar de voorlopige resultaten kijken, want het is toch veel te vroeg. Wat zullen we eerst doen? Misschien toch even naar die resultaat kijken.
+
+Expert
+Er is toch wel een link met het onderzoek dat je gaat geven.
+
+Researcher
+Dat is waar. Ik heb ze twee keer uitgeprint, zodat je het ook gewoon mag houden als je dat interessant vindt. Ik wil je later ook met plezier de volledige resultaat sturen en je op de hoogte houden.
+
+Expert
+Google Maps, meest gebruikt. Verder de meeste op de smartphones. Ja, ja. Dit is de respondent en het aantal dagen.
+
+Researcher
+Het aantal dagen dat de respondent de auto gebruikt per week.
+
+Expert
+Ja, ja.
+
+Researcher
+We zien dat de navigatieapp op de smartphone het meest wordt gebruikt. 
+
+Expert
+Ja.
+
+Researcher
+Maar omdat het zo'n kleine dataset is, kan dit nog heel vertekend zijn.
+
+Expert
+Ja. Nooit van toepassing. Bijna nooit van toepassing. Oké, ja.
+
+Researcher
+Ik zie tot nu toe geen reacties op altijd van toepassing.
+
+Expert
+Nee.
+
+Researcher
+Ik zie geen reacties die erop wijzen dat men heel erg afgeleid gaat.
+
+Expert
+Nee.
+
+Researcher
+Misschien als dit naar onderzoek over smartphones ging, bellen en whatsappen, dan zou dit waarschijnlijk een stuk hoger uitvallen.
+
+Expert
+Ja.
+
+Researcher
+Ja, de visuele aandacht, dat zie ik dus bevestigd door jouw uitspraken.
+
+Expert
+Ja.
+
+Researcher
+Minder bewust van de omgeving zie ik ook, en ik weet niet zeker of jij dat ook zou beamen in jouw ervaring.
+
+Expert
+Ja, ik denk dat het eigenlijk minder bewust van de omgeving volgt op die visuele aandacht. Zo zou ik het zien. Het feit dat ze naar een scherm kijken maakt dat hun situation awareness omlaag gaat.
+
+Researcher
+Ja.
+
+Expert
+En dan dus minder bewust van de omgeving.
+
+Researcher
+Dat herkennen van de juiste oorzaak-volg-relatie.
+
+Expert
+Ja.
+
+Researcher
+Sinds ik deze survey aan het ontwerpen ben, heb ik daar toch een beetje mee moeten stoeien.
+
+Expert
+Dat is ook voor het zelf een beeld hebben van hoe al deze zaken samen hangen. Ja. Langzamer rijden. Nou, toch ook nog wel een aandeel. Verkeerde afslag, komt ook voor. Slingeren. Nou, slingeren gebeurt toch ook wel.
+
+Researcher
+Het zijn de meest gerapporteerde nadelige effecten tot nu toe.
+
+Expert
+Ja. Ja. Ja. Onbehulpzame instructies.
+
+Researcher
+We zien ook hier dat er geen hele overtuigende beweging is naar rechts.
+
+Expert
+Ja.
+
+Researcher
+Deze laatste vond ik persoonlijk interessant. Ik heb gewoon even als concept eens wat gecodeerd.
+
+Expert
+Ja.
+
+Researcher
+En er zit een open vraag in van, kun je me vertellen wat.
+
+Expert
+Ja.
+
+Researcher
+Qua navigatiesystemen, ja, jou het meest afleiden. Ja, inderdaad.
+
+Expert
+En bad instructions, daar staat ook op een, zeg maar.
+
+Researcher
+Ja. Die komt het meest voor. En opvallend, ja, nieuwe route.
+
+Expert
+Ja.
+
+Researcher
+En misschien ook wel in koppeling met wat jij zegt. Omdat jij zei zojuist dat best wel vervelend kan zijn in termen van afleiding de opties waarbij een timer afgaat.
+
+Expert
+Ja.
+
+Researcher
+En dit zou er, dat weet ik niet, maar dit zou er wel zo in kunnen zijn uit mijn ervaring met Google Maps.
+
+Expert
+Ja, dat is ook puur mijn persoonlijke ervaring. Dat je krijgt zo'n aankondiging van ik heb een snellere route.
+
+Researcher
+Ja.
+
+Expert
+En dan moet je op reageren. Je kan het lastig zelf bepalen wanneer het jouw het beste uitkomt. Je hebt wel wat tijd, maar je voelt toch de tijdsdruk om een beeld te vormen.
+
+Researcher
+Ja.
+
+Expert
+Van wat de nieuwe route inhoudt.
+
+Researcher
+Ja.
+
+Expert
+En vervolgens ook te accepteren. Ik denk dat daar wel verbetering, dat dat wel voor verbetering vatbaar is eigenlijk hoor.
+
+Researcher
+Ja.
+
+Expert
+Dat je toch sneller een beeld hebt van wat die vraag van het systeem nou eigenlijk precies inhoudt. Of wat het voorstel is. Want vaak, je hebt ook een beetje vertrouwen in het systeem inhoudt. Of die het altijd bij het rechte eind heeft.
+
+Researcher
+En ik denk dan, hij wil me op een andere route sturen om het verkeer te helpen. Maar misschien wil ik het verkeer niet helpen, misschien wil ik sneller naar huis toe.
+
+Expert
+Ja. Ja. Ja. En dat is ook de vraag. Inderdaad. Is het om het verkeer te helpen? Of wat is de.
+
+Researcher
+Dat weet ik niet. Ik zeg maar wat eigenlijk. Daar ben ik bang voor. Dat persoonlijk is ook maar puur een anekdote.
+
+Expert
+Want er zijn ook wel. Wat ook als een nadeel van navigatiesystemen werd genoemd is dat. Zeker met de verkeersinformatie, dat mensen vaak routes nemen die juist vanuit het verkeersmanagement niet te volgen hebben. Dus als je op een hoogweg rijdt en die is heel druk. Dan kan de navigatie prima aan een onberoepte door een dorpje, door een 30 km per uur zone bedenken die jouw tijdswinst geeft. Maar het is vaak niet wat je vanuit het verkeersmanagement zou willen want daar wil je die druk op, dat onderrichtingsteeg net aangehouden.
+
+Researcher
+Ja.
+
+Expert
+Daar zijn mogelijk ook de risico's hoger omdat daar gewoon meer andere kwesties.
+
+Researcher
+Dan ga je weer over een smal dijkje.
+
+Expert
+Ja. In hoeverre beïnvloedt zo'n navigatie nou je verkeersmanagement? Je kan het er ook voor inzetten natuurlijk. Dat is meer hoe jij het voorwoord inderdaad. Dan stuur je het bij een andere route omwille van het verkeer.
+
+Researcher
+Ja. Gesproken over context.
+
+Expert
+Ja.
+
+Researcher
+Want een Google Maps heeft dat soort functies. Ik zal je eerlijk zeggen, ik weet de precieze invullingen niet van maar ik heb hier en daar iets. Ik denk toch dat Google Maps dat soort functies wel heeft om, voor te proberen het verkeer, tenminste om je op een snellere route te sturen en misschien heeft Google Maps er dan wel niet zo'n erg in dat je dan op een smalle dijkje terecht komt.
+
+Expert
+Ja.
+
+Researcher
+Wat misschien minder praktisch is, minder veilig.
+
+Expert
+Ja.
+
+Researcher
+Dat is één aspect aan de context.
+
+Expert
+Ja.
+
+Researcher
+En dan heb je. Ah, ik ben hem kwijt. Ik ben hem kwijt. Ik kwam net iets heel moois. Ja, ja, ja, ja, ja, de context is ook. Als je je navigatiesysteem gebruikt en geïntegreerd in de auto, dan is die ook gespecialiseerd in die taak.
+
+Expert
+Ja.
+
+Researcher
+Zullen vast wel haken aan ogen gaan zitten, maar ik kan me voorstellen dat als je een navigatiesysteem gebruikt op je smartphone in de auto, dat die smartphone is ook weer de context van het navigatiesysteem en introduceert bepaalde afleidingen die een smartphone introduceert. WhatsApp berichtjes, pop-ups, een navigatiesysteem kan onderbroken raken doordat je batterij op is. Daar ben ik ook naar geïnteresseerd.
+
+Expert
+Maar dat komt er inderdaad zo uit.
+
+Researcher
+Klopt.
+
+Expert
+Ik denk wel dat je gelijk hebt dat als je het scherm van je telefoon komt en die voor je hebt en dat gebruikt de navigatie, dan komt er van alles voorbij wat ook niks te maken heeft met wat je op dat moment van je smartphone draagt. Dat is die navigatieondersteuning. Ik ben het met je eens dat dat wel voor extra afleidingen of interrupties kan leiden. Ja.
+
+Researcher
+Dan is het misschien wel zinvol om misschien een klein zijstapje te maken naar smartphones.
+
+Expert
+Ja.
+
+Researcher
+Wat zijn de meest impactvolle afleidingen die een smartphone introduceert? Zouden we dat misschien kunnen terugzien in de context van navigatiesysteem? 
+
+Expert
+Ja. Je ziet wel dat het gebruik van de telefoon in het verkeer enorm is toegenomen met de komst van de smartphone. Dus dat is heel duidelijk zichtbaar. Je doet steeds meer met je telefoon en dat wordt meegenomen in de auto. Ik denk dat dat door berichten die je telefoon geeft, dus met name wanneer het initiatief van zo'n interactie van buitenaf komt, bijvoorbeeld een WhatsApp bericht, een ploying dat er een bericht binnenkomt, dat trekt heel erg je aandacht naar dat systeem toe. Dus dat heeft wel een groot impact op de navigatie, eens een mailtje of het feit dat je gebeld wordt. Dat kan je slecht zelf timen en toch wil je weten wat er aan de hand is, want voor hetzelfde geldt is het een belangrijk bericht van een gezinslid waar iets mee is en dan wil je dat toch snel weten. En er zijn ook allerlei oplossingen voor, dat je een systeempje in je auto hebt, wat de mogelijkheden van je smartphone beperkt als je aan het rijden bent.
+
+Researcher
+Dat wist ik niet, dat dat bestaat.
+
+Expert
+Ja, SmartPod of zo heet dat. En dat zorgt ervoor dat een hoop van die berichten gewoon onderdrukt worden. Er kunnen er een aantal wel doorheen komen die potentieel belangrijk zouden kunnen zijn, maar in principe voorkomt dat de interactie met je telefoon.
+
+Researcher
+Is dat een bepaalde app of is dat een apparaatje? Ja, ik zal het even googlen.
+
+Expert
+Het is een bepaalde app en een apparaatje. Het apparaatje weet dan dat jij in de auto zit of de telefoon is in de buurt. Je hebt verschillende oplossingen ervan. Iets van een SmartPod heet dat.
+
+Researcher
+SmartPod en gerelateerde systemen is interessant om even te bekijken.
+
+Expert
+Ja.
+
+Expert
+Wat zou ik er nog meer over zeggen? Wat ook wel een rol speelt is gewoontegedrag. Veel mensen doen heel veel met hun telefoon. Er zal zelfs sprake kunnen zijn van een soort verslavend gebruik van die telefoon. Er is in ieder geval sprake van gewoontegedrag. Mensen controleren om de x-interval even hun telefoon of hun berichtje is binnengekomen. Het gedrag wordt meegenomen in de auto. Het is lastig om die gewoonte te onderdrukken omdat je aan het sturen bent. Je wilt even contact met je telefoon om te zien of er nog iets binnen is gekomen waar je op moet reageren. Eigenlijk wel de prikkel die je ervan krijgt. 
+
+Researcher
+Wanneer je steeds wordt herinnerd. Je telefoon hangt daar in het houdertje en je bent aan het navigeren en je krijgt die pinguren en whatsappjes. Dan word je er steeds aan herinnerd. Dan krijgt je gewoonte ook weer de voeding. Dan wordt dat in stand gehouden.
+
+Expert
+Ja, maar het is aan zich, los van navigatie, ook wel een probleem in de smartphone en de auto. Dat mensen het gewend zijn om ieder kwartier iets met hun telefoon te doen. Om even te controleren of er nog een. En als je dan als navigatie gebruikt wordt, dan word je natuurlijk helemaal mee geconfronteerd dat er berichten binnenkomen. En dat je.
+
+Researcher
+En als je een waardeoordeel zou geven vanuit jou persoonlijk en vanuit jou professioneel. Moeten we dat wel wetten? Hoe weegt dat af tegen de voordelen van navigatiesystemen? Want. Als er miljoenen mensen zijn die een navigatiesysteem met de smartphone gebruiken in de auto. Dan de wet van de getallen zou stellen. Ja, dan zijn er tragisch genoeg ook ongelukken komen daaruit voort. Maar tegelijkertijd heeft het ook zo z'n voordelen.
+
+Expert
+Ja, dat is altijd een lastige vraag. Want wij beperken ons vaak eerder tot de feiten. En als je nu naar de feiten zou kijken, dan zou je denk ik inderdaad tot de conclusie moeten komen dat een. Dedicated navigatiesysteem geïntegreerd in de auto de voorkeur heeft boven een nomadisch apparaat op een smartphone. Maar er zit veel meer in die afweging natuurlijk. Het is toegankelijker om gewoon je smartphone te gebruiken. Dat heeft iedereen. Een auto met geïntegreerde navigatie heeft niet iedereen. Daarnaast wordt het ook professioneel veel gebruikt, zo'n telefoon in de auto. En heeft dat ook zijn leerwaarde voor een hoop professionele processen. En uiteindelijk ligt daar nog vaak meer een afweging bij de politiek. Waar leggen we die grens? En proberen wij de feiten aan te dragen. Van wat nou de risico's die hiermee gemoeid zijn, precies zijn. Als je puur bij de feiten houdt, dan kan je beter niet je telefoon op die plek hangen natuurlijk. Die je ook andere afleidende informatie geeft. Dat zou mijn conclusie zijn.
+
+Researcher
+Oké, dan. Ja, dat is een complexe werkelijkheid.
+
+Expert
+Ja, ja.
+
+Researcher
+Hebben jullie eventueel in het verleden al voorstellen gedaan richting de overheid? Met betrekking tot. Nou, zeker met betrekking tot navigatie. Pardon, smartphones. Maar met betrekking tot navigatiesystemen? Navigatie.
+
+Expert
+Niet. Nee, nee, nee, nee. Ik ben daar geen expert in. In hoe die wetgeving, maar ook in hoe richtlijnen precies tot stand komen. Want je hebt natuurlijk wetgeving in een land of in Europa. Maar je hebt ook richtlijnen voor ontwerp van dit soort systemen. En ik weet dat er wel allerlei richtlijnen zijn over interacties met systemen in je auto waarmee je navigatie op een systeem zou kunnen zien. En die ken ik echt niet goed. Maar ik weet dat ze er zijn. En die omvatten ook zaken als in hoe lang een bepaalde handeling mag duren. in hoeverre die onderbroken kan worden of niet.
+
+Researcher
+Ja, die heb ik voorbij zien komen. Het Amerikaanse instituut.
+
+Expert
+NTSA? 
+
+Researcher
+Ja, inderdaad. Die heeft daar een hele specificatie voor geschreven van X100 pagina's.
+
+Expert
+Ja, en ik denk toch dat, dat soort richtlijnen zijn belangrijk. En dat bepaalt op een gegeven moment hoe dit soort apparaten vormgegeven worden. En hoe die in. Je hebt verschillende bronnen van informatie daarvoor. Je hebt richtlijnen, je hebt op het Europese niveau ook allerlei directives en regelgeving.
+
+Researcher
+Ja, ja. Zo, even kijken.
+
+Expert
+Maar wij zitten dan niet zozeer aan de ontwerpkant hiervan. Dus wij kunnen wel aangeven dat die interruptability belangrijk is. We kunnen eerder randvoorwaarden meegeven. Zoals het zorgt dat er niet langer dan twee seconden of zo van tijd in een bepaald tijdsbestek van weggekeken hoeft te worden. Zorgen dat de mentale inspanning binnen een bepaalde marge blijft. Het zorgt dat we daarvan weten dat dat een negatieve relatie effect heeft op het rijgedrag, performance of risico's. En vervolgens is het dan natuurlijk aan de ene zijde aan ontwerp experts om met die randvoorwaarden van het ontwerp te komen. Maar ook qua wet- en regelgeving om dit te verwerken tot richtlijnen, denk ik. En wij werken ons van tot die feiten die randvoorwaarden kunnen creëren voor een ontwerp of voor richtlijnen.
+
+Researcher
+Oké. Ja, dat is waar. Dat is waar, inderdaad. Aan de hand van de feiten die jullie vaststellen, zou de richtlijnen voor ontwerp kunnen worden gemaakt.
+
+Expert
+Ja.
+
+Researcher
+En dat zou ik dan, nu ik erover nadenk, daar zou ik even een kijkje naar moeten nemen.
+
+Expert
+Misschien ook, natuurlijk. Ik denk dat ik dat linkje al heb gezien. Ik weet even het jaar toch niet meer. Maar misschien is het al vanaf afgelopen juli. Is het verplicht voor nieuwe personenvoertuigen om ook een vorm van intelligente snelheidsassistentie te hebben? En dat houdt in dat je als bestuurder gewaarschuwd wordt voor de randvoorwaarden. Dat je als bestuurder gewaarschuwd moet worden als je boven de limiet rijdt op een bepaalde weg. Dus dat het systeem moet de snelheidslimiet weten. En je op een bepaalde manier, die gespecificeerd is, waarschuwen dat je daar boven rijdt. Dat linkt natuurlijk ook heel erg aan navigatiesystemen. Veel navigatiesystemen hebben al kaart aan boord of geven al het limiet weer wat er op die weg gereden kan worden.
+
+Researcher
+Ja, en die geven een pingetje als je er overheen gaat.
+
+Expert
+Precies, dus dat is al een vorm van die ISA, zoals we dat gaan noemen, die ook onderdeel van navigatie is. Wat linkt aan veiligheid. Er zijn ook vragen of zorgen over het feit dat je continu de limiet in beeld hebt. Maakt het ook niet dat je juist harder kan gaan rijden? Daar gaan we binnenkort een studie naar uitvoeren. Als je continu weet tot hoever je je snelheid mag opvoeren, of je stelt zelf een speedlimiter in, dan kunnen mensen ook geneigd zijn om juist gemiddeld met zo'n systeem harder te gaan rijden, in plaats van langzamer te gaan rijden. Dat zijn neveneffecten van zo'n systeem of van regelgeving, die ook interessant zijn om naar te gaan. 
+
+Researcher
+Dat is een hele interessante. Ik sta versteld van het detail waarin jullie dat benadigen. Dat vind ik echt heel interessant om te vernemen en hoe jullie dat aanpakken. Ik denk dat we langzaamaan kunnen gaan afronden.
+
+Expert
+Voor wat voor partijen ga je nog meer interviewen? Met wat voor achtergrond hebben die? 
+
+Researcher
+Eén heer die gespecialiseerd is in veiligheid, dat is een collega van mijn vrouw. Maar dat is wel veiligheid, maar niet zozeer in verkeer. Ik zou nog iemand willen interviewen die misschien bij het CBR is aangesloten. En ik zou misschien nog iemand willen interviewen die veel rijervaring heeft of misschien wel rijinstructeur is. De ervaringsbeskundige.
+
+Expert
+En heb je ook, je zou kunnen denken aan de interview met mensen die juist in de ontwikkeling van dit soort systeem zitten. En beleidsmakers. En het zou misschien ook interessant zijn om jullie te gaan kijken of het voor hen een issue is, dit hele navigatiesysteem. Edwin en ik zijn natuurlijk bezig met de toelating van voertuigen. En eisen die er aangesteld moeten worden.
+
+Researcher
+Ja, geweldige tips, even kijken verder. Verdere interviews. Ja, inderdaad. Dus RDW houdt zich bezig met beleid, onder andere, het zijn ook andere personen en instanties die zich bezig houden met beleid hieromtrent. De ontwikkelaars van de navigatiesystemen, hartstikke logisch. In hoeverre denken zij na over, in hoeverre hun systemen mensen afleiden en een potentieel gevaarlijke situatie veroorzaken.
+
+Expert
+Ja, ik moet zeggen, er is ook al onderzoek naar.
+
+Researcher
+Hartelijk bedankt voor deze tips, ik kan ze ook heel goed gebruiken.
+
+Expert
+Leuk, ja.
+
+Researcher
+Dankjewel.
+
+Expert
+Ik ben heel benieuwd, wanneer moet je het afronden? 
+
+Researcher
+Ik rond mijn masterscriptie eind juli af. Dan is hij klaar, dan lever ik hem op.
+
+Expert
+Ja, dus nog een hoop werk voor de winkel, met het onderzoek wat je nog gaat doen.
+
+Researcher
+Hierna nog het experiment, inderdaad. En observatiesessies. Dus echt een kwalitatief aantal sessies, vier sessies lijkt me voldoende. Waarbij ik naast een familielid of een goede vriend van me ga zitten. En gewoon eens gaan observeren, wat is het gedrag van deze persoon met het navigatiesysteem. Gewoon om een gevoel bij te krijgen. Ook gevoel bij verschillende soorten navigatiesystemen. Je hebt ze heel verschillende, je hebt heel verschillende types.
+
+Expert
+Leuk, ja. Nou, heel interessant om over te horen.
+
+Researcher
+Dan laten we gaan afronden.
+
+Expert
+Oké.
