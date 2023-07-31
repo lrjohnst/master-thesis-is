@@ -1,0 +1,3 @@
+nav_behavior
+ * Lane position: “Car follows my gaze to the nav on left/right”, or “Swerving”.
+ 

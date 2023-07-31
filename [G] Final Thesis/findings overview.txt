@@ -1,0 +1,34 @@
+Section 7 Discussion; Subsection 7.1 Recap of the findings.
+
+1 Perhaps you could come up with a more scientific name for the subsection.
+2 Please help me write a concise summary of the following findings. Put it in one paragraph please and make it short, dry, factual, avoid unnecessary adjectives. Go a little bit easy on the difficult wording (because I am noticing that you, GPT4 use extremely advanced wording). Take it down just a notch.
+
+
+The sample is described as follows:
+- Roughly half of the survey participants uses smartphone navigation (S), a quarter uses car-integrated (I) and another quarter uses streaming (Z).
+- The overall mean weekly car use frequency is 4.2 days.
+
+Statistically significant findings from the survey are:
+- Group I respondents statistically significantly report more often cases of 'bad instructions or difficulty interpreting', compared to groups S and Z.
+- Group I respondents statistically significantly report more often problems related to 'decision making', compared to groups S and Z.
+- Group I respondentsappear to report more often unhelpful instructions or information related to 'bad timing or bad data', only I to S being statistically significant.
+
+Not statistically significant findings, but notable from the survey are:
+- Distractions related to "conflict between other system and navigation" appear to be less reported for group I compared to other groups.
+- There seems to be a higher frequency for group I, compared to groups S and Z regarding reports of negative effects on driving performance related to “Speed control”.
+- Compared to groups I and Z, group S participants seem to complain less about cases relating to “Confusing or conflicting” instructions.
+
+Comparing the means of the Likert-scale questions across groups S, I and Z yielded no significant results. Focusing merely on effect size, the following (moderate) differences stand out: 
+- Taking wrong turns seems to be larger effect for group S, compared to group Z.
+- Environmental awareness seems to be a more of a distraction for group S, compared to group I.
+- Speed control seems to be more of a problem within group I, compared to groups S and Z.
+- Stability of lane position seems to be more of a problem for group S, compared to group Z.
+- Reaction time seems to be more of a problem for group S, compared to group Z.
+
+Relations between distractions and driving performance that stand out from Correlation Coefficients across all Likert-scale questions are:
+- Both 'difficulty shifting focus' (r=0.54) and 'situational awareness' (r=0.57) seems to be related to 'decreased reaction time', overall (F).
+- Occurrences of 'bad instructions' seems to be related to both 'more speed' (r=0.74), and 'speed control' (r=0.83) within group I.
+- Both 'glance duration' (r=0.86) and 'glance frequency' (r=0.77) seem to be related to 'less stable lane position' within group Z.
+- Both 'difficulty shifting focus' (r=0.8) and 'situational awareness' (r=0.85) seem to be related to 'reaction time' within group Z.
+- Within group S, no relations between distractions and driving performance were detected.
+

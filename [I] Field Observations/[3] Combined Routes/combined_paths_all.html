@@ -1,0 +1,47 @@
+<!--<!DOCTYPE html>-->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Master Thesis LRJ - Interactive map with observations from all groups combined</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rt38f0K52m3Ls88v0rlJKh3R81KZ9txuh/AO2j/+Gp5N3ZpDZ4ah2Kg8xDX5N3V" crossorigin="anonymous">
+        <script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyASXGapuNqnC4MKlfQUqdqze1b2ro9sf1g'></script>
+        <style>
+            #map {
+                height: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container-fluid">
+            <h1>Interactive map with observations from all groups combined</h1>
+            <div class="my-4">
+                <strong><a href="/combined_paths_all.html">Combined paths all groups</a></strong> |
+                <a href="/combined_paths_s.html">Combined paths Group S</a> |
+                <a href="/combined_paths_i.html">Combined paths Group I</a> |
+                <a href="/combined_paths_z.html">Combined paths Group Z</a>
+            </div>
+            <p>Attribution: Google Maps Platform  |  Google for Developers. Retrieved July 25, 2023 from https://developers.google.com/maps.</p>
+        </div>
+
+        <div id='map'></div>
+        <script>
+            var mapCenter = { lat: 52.0653758, lng: 5.688412 };
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 10,
+                center: mapCenter
+            });
+        </script>
+        <script src="aa_ede_i.js"></script>
+        <script src="ab_ede_i.js"></script>
+        <script src="ac_schiphol_z.js"></script>
+        <script src="ae_schiphol_i.js"></script>
+        <script src="af_ede_i.js"></script>
+        <script src="ag_schiphol_z.js"></script>
+        <script src="ah_schiphol_z.js"></script>
+        <script src="ai_ede_s.js"></script>
+        <script src="aj_ede_z.js"></script>
+        <script src="ak_schiphol_s.js"></script>
+        <script src="al_schiphol_s.js"></script>
+    </body>
+</html>

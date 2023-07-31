@@ -1,0 +1,47 @@
+[L0AA] Python Software Foundation. openai · PyPI. Retrieved July 7, 2023 from https://pypi.org/project/openai
+[L0AB] Greg Brockman, Atty Eleti, Elie Georges, Joanne Jang, Logan Kilpatrick, Rachel Lim, Luke Miller, and Michelle Pokrass. 2023. Introducing ChatGPT and Whisper APIs. Retrieved July 7, 2023 from https://openai.com/blog/introducing-chatgpt-and-whisper-apis
+[L0AC] SWOV. 2019. Intelligente transport- en rijhulpsystemen (ITS en ADAS). SWOV-Factsheet, April 2019. SWOV, Den Haag.
+[L0AD] Ralf Risser. 1985. Behavior in Traffic Conflict Situations. Accident Analysis & Prevention 17, 2 (Apr. 1985), 179-197. https://doi.org/10.1016/0001-4575(85)90020-X
+[L0AE] Graham Upton and Ian Cook. 2004. A Dictionary of Statistics. Oxford University Press Inc., New York, NY.
+[L0AF] Google Maps: Navigatie en OV - Apps op Google Play. Retrieved July 20, 2023 from https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=nl&gl=US
+[L0AG] GPS Navigation | Car GPS | Navigation Systems Cars | Garmin. Retrieved July 20, 2023 from https://www.garmin.com/en-US/c/automotive/car-gps-navigation/
+[L0AH] SWOV. 2023. Overtredingen – Draaitabel. Retrieved February 13, 2023 from https://theseus.swov.nl/single/?appid=99ce5640-ddf7-4ef2-9c83-2a50feea12bc&sheet=wMPrgPy&opt=currsel%2cctxmenu
+[L0AI] Thomas A. Dingus, Justin M. Owens, Feng Guo, Youjia Fang, Miguel Perez, Julie McClafferty, Mindy Buchanan-King, and Gregory M. Fitch. 2019. The prevalence of and crash risk associated with primarily cognitive secondary tasks. Safety Science 119, (Nov. 2019), 98-105. DOI: https://doi.org/10.1016/j.ssci.2019.01.005
+[L0AJ] Cansu Kandemir, Holly A.H. Handley, and Deborah Thompson. 2018. A workload model to evaluate distracters and driver’s aids. International Journal of Industrial Ergonomics 63, (Jan. 2018). 18-36. DOI: https://doi.org/10.1016/j.ergon.2016.09.004
+[L0AK] Sheila G. Klauer, Feng Guo, Bruce G Simons-Morton, Marie Claude Ouimet, Suzanne E Lee, Thomas A. Dingus. 2014. Distracted driving and risk of road crashes among novice and experienced drivers. New England Journal of Medicine 370, 1 (Jan. 2014), 54-59. DOI: https://doi.org/10.1056/nejmsa1204142
+[L0AL] Sheila Klauer, Thomas A. Dingus, J.D. Sudweeks, and T.V. Neale. 2006. The Impact of Driver Inattention on Near-Crash/Crash Risk: An Analysis Using the 100-Car Naturalistic Driving Study Data. Virginia Tech Transportation Institute, Blacksburg, Virginia
+[L0AM] W.P. Vlakveld. 2020. Appen achter het stuur - Wat zijn de gevaren van appen onder het rijden en is appen met de telefoon gevaarlijker dan appen met een telefoon in een houder naast het stuur? Retrieved February 13, 2023 from https://www.verkeersrecht.nl/system/files/2020-05/import/artikel-pdf/VR%202020-74.pdf
+[L0AN] Hilkka Grahn, and Tuomo Kujala. 2020. Impacts of Touch Screen Size, User Interface Design, and Subtask Boundaries on In-Car Task’s Visual Demand and Driver Distraction. International Journal of Human-Computer Studies 142, Article 102467 (2020), 15 pages. DOI: https://doi.org/10.1016/j.ijhcs.2020.102467
+[L0AO] David L. Strayer, Joel M. Cooper, Rachel M. Goethe, Madeleine M. McCarty, Douglas Getty, and Fransesco Biondi. 2017. Visual and Cognitive Demands of Using In-Vehicle Infotainment Systems. Department of Psychology, School of Social and Behavioral Science, University of Utah, Salt Lake City, UT
+[L0AP] Jun Ma, Jiateng Li, and Zaiyan Gong. 2022. Evaluation of driver distraction from in-vehicle information systems: A simulator study of interaction modes and secondary tasks classes on eight production cars. International Journal of Industrial Ergonomics 92, Article 103380 (Nov. 2022), 12 pages. DOI: https://doi.org/10.1016/j.ergon.2022.103380
+[L0AQ] Oscar Oviedo-Trespalacios, Md. Mazharul Haque, Mark King, and Simon Washington. 2016. Understanding the impacts of mobile phone distraction on driving performance: A systematic review. Transportation Research Part C: Emerging Technologies 72, (Nov. 2016), 360-380. DOI: https://doi.org/10.1016/j.trc.2016.10.006
+[L0AR] Michael Braun, Nora Broy, Bastian Pfleging, and Florian Alt. 2019. Visualizing natural language interaction for conversational in-vehicle information systems to minimize driver distraction. Journal on Multimodal User Interfaces 13, (Mar. 2019), 71-88. DOI: https://doi.org/10.1007/s12193-019-00301-2
+[L0AS] O. Kevin Vincent. 2014. Visual-Manual NHTSA Driver Distraction Guidelines for In-Vehicle Electronic Devices. National Highway Traffic Safety Administration (NHTSA), Department of Transportation (DOT).
+[L0AT] Tuomo Kujala, and Dario D. Salvucci. 2015. The power and sensitivity of four core driver workload measures for benchmarking the distraction potential of new driver vehicle interfaces. International Journal of Human-Computer Studies 79, (Jul. 2015), 66-78. DOI: https://doi.org/10.1016/j.ijhcs.2015.02.009
+[L0AU] Amy S. McDonnell, Kelly Imberger, Christopher Poulter, and Joel M. Cooper. 2021. The power and sensitivity of four core driver workload measures for benchmarking the distraction potential of new driver vehicle interfaces. Transportation Research Part F: Traffic Psychology and Behaviour 83, (Nov. 2021), 99-117. DOI: https://doi.org/10.1016/j.trf.2021.09.019
+[L0AV] Fanni Vörös, Zoltán Tompos, and Béla Kovács. 2019. Examination of car navigation systems and UX designs – suggestion for a new interaface. In Proceedings of the International Cartographic Asscoiation (ICC 2019), 2, July 15 – 20, 2019, Tokyo Japan. 139. https://doi.org/10.5194/ica-proc-2-139-2019
+[L0AW] Anders Lindgren Walter. 2005. Navigating Navigation: A Safety and Usability Evaluation of the Volvo P1 Navigation System. Master’s thesis. Department of Computer and Information Science, Linköping University, Sweden.
+[L0AX] Kristie Young, Michael Regan, and Mike Hammer. 2003. Driver Distraction: A Review of the Literature. Monash University Accident Research Centre, Victoria, Australia.
+[L0AY] Michael A. Regan (Ed.). 2008. Driver Distraction: Theory, Effects, and Mitigation (1st. ed.). CRC Press, Boca Raton. DOI:https://doi.org/10.1201/9781420007497
+[L0AZ] Cansu Kandemir, Holly A.H. Handley, and Deborah Thompson. 2018. A workload model to evaluate distracters and driver’s aids. International Journal of Industrial Ergonomics 63, (Jan. 2018). 18-36. DOI: https://doi.org/10.1016/j.ergon.2016.09.004
+[L0BA] Oscar Oviedo-Trespalacios, Mark King, Atiyeh Vaezipour, and Verity Truelove. 2019. Can our phones keep us safe? A content analysis of smartphone applications to prevent mobile phone distracted driving.
+[L0BB] TomTom-navigatie | Nieuwste TomTom GO-serie voor bestuurders. Retrieved July 21, 2023 from https://www.tomtom.com/nl_nl/navigation/car-gps/
+[L0BC] iOS - CarPlay - Apple. Retrieved July 21, 2023 from https://www.apple.com/ios/carplay/
+[L0BD] Android Auto | Android. Retrieved July 21, 2023 from https://www.android.com/intl/nl_nl/auto/
+[L0BE] GPS Logger - Apps op Google Play. Retrieved July 21, 2023 from https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger
+[L0BF] Mann–Whitney U test - Wikipedia. Retrieved June 22, 2023 from https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test#Effect_sizes
+[L0BG] Hans W. Wendt. 1972. Dealing with a common problem in Social Science: A simplified rank-biserial coefficient of correlation based on the U statistic. European Journal of Social Psychology 2, 4 (October 1972), 463-465. https://doi.org/10.1002/ejsp.2420020412
+[L0BH] Rohán M. Conroy. 2012. What hypotheses do "Nonparametric" Two-Group Tests Actually Test? The Stata Journal: Promoting communications on statistics and Data 12, 2 (June 2012), 192-190. https://doi.org/10.1177/1536867X1201200202
+[L0BI] Google Maps Platform  |  Google for Developers. Retrieved July 25, 2023 from https://developers.google.com/maps
+[L0BJ] Make Beautiful Surveys, Forms, and Polls Free | SurveyLegend. Retrieved July 28, 2023 from https://www.surveylegend.com/
+[L0BK] Jacob Cohen. 1988. Statistical Power Analysis for the Behavioral Sciences (2nd. ed.). Lawrence Erlbaum Associates, Mahwah, NJ.
+
+[L0BL] 
+
+[L0BM] 
+
+[L0BN] 
+
+[L0BO] 
+
+[L0BP] 
